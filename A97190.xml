@@ -1,0 +1,1779 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay on grief: with the causes and remedies of it</title>
+            <author>R. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 132 KB of XML-encoded text transcribed from 117 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97190</idno>
+            <idno type="STC">Wing W91A</idno>
+            <idno type="STC">ESTC R232331</idno>
+            <idno type="EEBO-CITATION">99900102</idno>
+            <idno type="PROQUEST">99900102</idno>
+            <idno type="VID">170915</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170915)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2522:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay on grief: with the causes and remedies of it</title>
+                  <author>R. W.</author>
+               </titleStmt>
+               <extent>[8], 220 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Leon. Lichfield,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>An. Dom. 1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: R.W.</note>
+                  <note>DFo copy, reel 2522, missing pp. 1-2.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grief --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170915:1"/>
+            <pb facs="tcp:170915:1"/>
+            <pb facs="tcp:170915:2"/>
+            <pb facs="tcp:170915:2" rendition="simple:additions"/>
+            <p>AN ESSAY ON <hi>GRIEF:</hi> With The CAUSES and REMEDIES of <hi>It.</hi>
+            </p>
+            <q>
+               <l>Durum: ſed levius fit patientia,</l>
+               <l> Quicquid corrigere eſt nefas. </l>
+               <bibl>Hor.</bibl>
+            </q>
+            <p>
+               <hi>OXFORD;</hi> Printed by <hi>Leon. Lichfield. An. Dom.</hi> 1695.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170915:3"/>
+            <pb facs="tcp:170915:3"/>
+            <head>TO THE HONOURED M<hi rend="sup">rs</hi>. <hi>M. LAKE.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>SINCE they who may juſtly chal<g ref="char:EOLhyphen"/>lenge thoſe admired Qualities, which are become the common
+Forms of a Dedica<g ref="char:EOLhyphen"/>tion, are generally diſ<g ref="char:EOLhyphen"/>pleaſed with Addreſſes of that nature; I ſhall
+omit that undiſputed Title you have to ſuch Excellencies, and beg
+<pb facs="tcp:170915:4"/> leave to inform the World, how much it is indebted to you for a juſt Example of what
+Reſpect we ought to pay to the Memory of our De<g ref="char:EOLhyphen"/>ceaſed Friends: E<g ref="char:EOLhyphen"/>ſpecially when they were
+adorned with all thoſe Endowments, which were ſo con<g ref="char:EOLhyphen"/>ſpicuous in Your Ex<g ref="char:EOLhyphen"/>cellent Brother: Who
+beſides thoſe Accom<g ref="char:EOLhyphen"/>pliſhments w<hi rend="sup">ch</hi> com<g ref="char:EOLhyphen"/>manded
+<pb facs="tcp:170915:4"/> an Univerſal Eſteem, join'd the Affection of a Friend to that of ſo near a
+Relation: which makes it difficult to determine whether he deſerv'd, or you ex<g ref="char:EOLhyphen"/>preſt the
+greater Sor<g ref="char:EOLhyphen"/>row. It was my fre<g ref="char:EOLhyphen"/>quent Reflection up<g ref="char:EOLhyphen"/>on this, that firſt mov'd me to this At<g ref="char:EOLhyphen"/>tempt;
+which how<g ref="char:EOLhyphen"/>ever mean in it ſelf, will have enough to
+<pb facs="tcp:170915:5"/> recommend it, if hon<g ref="char:EOLhyphen"/>our'd with your Pro<g ref="char:EOLhyphen"/>tection: Which I the more confidently
+pre<g ref="char:EOLhyphen"/>ſume upon, ſince that Relation it bears to you (as you have had the juſteſt Cauſe of
+<hi>Grief,</hi> have ſhewn the moſt tender Senſe of it, and yet none ever more religiouſly
+Con<g ref="char:EOLhyphen"/>quer'd it) makes it wholly yours. I deſign not, MADAM, by this Diſcourſe to Accuſe
+<pb facs="tcp:170915:5"/> you of any Neglect, but only to ſhew what you have Practic'd, and by Copying out
+your Behaviour teach others their Duty. I am ſenſible by the Advantage of ſo Emi<g ref="char:EOLhyphen"/>nent a
+Pattern, much more might be ſaid upon the Subject, and that too, much bet<g ref="char:EOLhyphen"/>ter treated of: But if
+this rude and un<g ref="char:EOLhyphen"/>poliſht Eſſay may ob<g ref="char:EOLunhyphen"/>tain the Happineſs of
+<pb facs="tcp:170915:6"/> being receiv'd as a Te<g ref="char:EOLhyphen"/>ſtimony of my Grati<g ref="char:EOLhyphen"/>tude, for the frequent Obligations both
+His and Your Favours have laid upon me, all other Defects will be abundantly ſup<g ref="char:EOLhyphen"/>ply'd, and I
+ſhall at<g ref="char:EOLhyphen"/>tain the chief End and Honour I pro<g ref="char:EOLhyphen"/>pos'd by it, of being Eſteem'd</p>
+            <closer>
+               <salute>MADAM;</salute>
+               <signed>Your moſt Oblig'd, And humble Servant, R. W.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="3" facs="tcp:170915:6"/>
+            <p>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap> its Thoughts and Inclinati<g ref="char:EOLhyphen"/>ons upon an <hi>Object,</hi>
+then it exceeds the Bounds of Rea<g ref="char:EOLhyphen"/>ſon, becomes an irregular <hi>Paſſion,</hi> and falls into
+<hi>Ex<g ref="char:EOLhyphen"/>treams.</hi> If it be long in<g ref="char:EOLhyphen"/>dulg'd, it contracts a <hi>Habit</hi> in us; and will with
+great Difficulty be remov'd, and reduc'd to the Obedience of Reaſon.</p>
+            <p>From hence we may ga<g ref="char:EOLhyphen"/>ther the true Notions of the chief of all our Paſſions, <hi>Joy</hi>
+and <hi>Grief;</hi> with the Exceſs and Irregularities of them. For they are always Innocent when
+they are <hi>mo<g ref="char:EOLhyphen"/>dcrated,</hi> and are only blame<g ref="char:EOLhyphen"/>able in their <hi>Exceſs.</hi> For
+<pb n="4" facs="tcp:170915:7"/> the ſame reaſon that per<g ref="char:EOLhyphen"/>mits us to taſt and enjoy with Pleaſure a Good
+that we deſire, does not forbid us ſorrowing for the loſs of it; Provided we neither
+diſorder our <hi>Reaſon,</hi> nor tranſgreſs the Bounds of <hi>Re<g ref="char:EOLhyphen"/>ligion.</hi>
+            </p>
+            <p>I call theſe the Chief of our Paſſions, becauſe all the Pleaſure or Pain which we find
+in the Soul upon any account whatſoever, may be reduc'd to one of theſe. Whether I
+<hi>Love</hi> or <hi>Hate, Hope</hi> or <hi>Fear, Envy</hi> or <hi>Ad<g ref="char:EOLhyphen"/>mire,</hi> it produces in me
+ei<g ref="char:EOLhyphen"/>ther ſome inward Satisfacti<g ref="char:EOLhyphen"/>on or Uneaſineſs, and con<g ref="char:EOLhyphen"/>ſequently,
+<pb n="5" facs="tcp:170915:7"/> I can't avoid in ſome meaſure either Re<g ref="char:EOLhyphen"/>joycing or Sorrowing at it.</p>
+            <p>
+               <hi>Grief in General, is an Un<g ref="char:EOLhyphen"/>eaſineſs of the Mind, ariſing from the Senſe of a Good
+loſt, or a preſent Evil.</hi> The Seat of this paſſion is in the Soul; for Reflection and
+Thought (upon the Evil that we ſuf<g ref="char:EOLhyphen"/>fer) which are the chief Action, if not Eſſence of the
+Soul, give Life and Being to it. And here again we may diſtinguiſh the true Notion of this
+<hi>Paſſion</hi> from the Vices of it. For to <hi>grieve</hi> at a preſent Evil, which is
+really ſuch, ſo as to avoid it for the future, is Commend<g ref="char:EOLhyphen"/>able
+<pb n="6" facs="tcp:170915:8"/> and Praiſe-Worthy; but to <hi>Grieve</hi> at any thing which my Opinion only
+makes to be Evil, which is not really ſo in itſelf, car<g ref="char:EOLhyphen"/>ries the Nature of a great
+Imperfection, if not of a Sin along with it. <hi>As for In<g ref="char:EOLhyphen"/>ſtance,</hi> If I have done any thing,
+either through Igno<g ref="char:EOLhyphen"/>rance or againſt my Know<g ref="char:EOLhyphen"/>ledge, which my Conſcience accuſes me of, it is
+my Du<g ref="char:EOLhyphen"/>ty to be Sincerely <hi>griev'd</hi> at the Remembrance of it, and endeavour by all means
+poſſible, to avoid incurring the ſame Guilt for the fu<g ref="char:EOLhyphen"/>ture. But if the Occaſion of my
+<hi>Grief</hi> be ſomething that
+<pb n="7" facs="tcp:170915:8"/> was without my ſelf, as the loſs of <hi>Honours, Riches,</hi> or the like,
+which are not in mine own Power, but at the Diſpoſal and Appointment of <hi>Providence,</hi>
+then to Grieve is to exceed the Reaſon and Nature of it; Becauſe as the Enjoyment of them was
+never deſign'd to make us entirely Happy, ſo neither can the Loſs of them make us really
+Miſerable.</p>
+            <p>But in this caſe alſo, <hi>Grief</hi> may be ſo far allowable, as it reſpects the
+Cauſes of my Misfortunes. If my Extra<g ref="char:EOLhyphen"/>vagance and Prodigality have been the cauſes of my
+Poverty, it is then my Duty
+<pb n="8" facs="tcp:170915:9"/> to be <hi>griev'd</hi> at the thoughts of thoſe ill Actions which have brought
+that upon me. But I muſt then be very cautious, leſt I ſhould think any thing
+diſreſpectfully of Providence; and take care that my Sorrow be chiefly for my Sin, and not for
+the Poverty of my Condition. In ſhort, then is my <hi>Grief</hi> true and ſincere, when it
+proceeds from the Sence of my Guilt, and not from that of my Sufferings; When the Cauſe of my
+Unhappi<g ref="char:EOLhyphen"/>neſs, not the Unhappineſs it ſelf, is the Object of it.</p>
+            <p>I would not be thought to ſay, That we ought to
+<pb n="9" facs="tcp:170915:9"/> abandon all our Paſſions as to External Objects, ſo as to uſe all with
+the ſame In<g ref="char:EOLhyphen"/>difference: For we can't help being delighted with Some more than Others: but only,
+that we ſhould not diſcover ſo great a Concern for any of them, as to ſuffer our
+Happineſs or Miſery to depend upon the Enjoyment or Loſs of them. And here<g ref="char:EOLhyphen"/>in that Notion of
+<hi>Vertue</hi>'s conſiſting between two Ex<g ref="char:EOLhyphen"/>treams, may be applied to the
+<hi>Paſſions.</hi> For as they ought not to ſhew too great fondneſs of Senſible Objects,
+ſo neither ought they to uſe them with Contempt. A
+<pb n="10" facs="tcp:170915:10"/> moderation towards all out<g ref="char:EOLhyphen"/>ward Enjoyments is very neceſſary to our
+Happineſs. If we are always careful, not to be Exceſſive in our <hi>Plea<g ref="char:EOLhyphen"/>ſure</hi> and
+<hi>Delights,</hi> we ſhall never be dejected with our <hi>Misfortune.</hi> For he that keeps not
+his Paſſions within Bounds on the one Hand, will upon any Diſappoint<g ref="char:EOLhyphen"/>ment, fall into Extreams
+on the Other.</p>
+            <p>I ſpeak now of <hi>Paſſions</hi> only as they are converſant about Objects of Sence. For
+when they are fix'd on Di<g ref="char:EOLhyphen"/>vine <hi>Objects,</hi> they can't pro<g ref="char:EOLhyphen"/>perly be ſaid, to run into
+Exceſs; for 'twould be very
+<pb n="11" facs="tcp:170915:10"/> abſurd to ſay, we could <hi>love</hi> GOD too much. And al<g ref="char:EOLhyphen"/>though there
+are ſome miſ<g ref="char:EOLhyphen"/>taken ways and modes of Worſhip which carry Men into Superſtition, yet it is
+not the <hi>height</hi> of Love or Affection that is the Cauſe of it. For <hi>Paſſion</hi> is
+no lon<g ref="char:EOLhyphen"/>ger true and regular than it is guided by <hi>Reaſon</hi> and <hi>Revelation.</hi>
+            </p>
+            <p>But not with ſtanding all the Nice ſpeculative Noti<g ref="char:EOLhyphen"/>ons that we conceive of the
+<hi>Paſſions;</hi> yet the Beſt of Men have been overtaken by Irregular Motions: ei<g ref="char:EOLhyphen"/>ther
+carried away by a ſud<g ref="char:EOLhyphen"/>den Tranſport of Joy, or
+<pb n="12" facs="tcp:170915:11"/> dejected with the Surprize of an unexpected Calamity. Though this can't
+properly be ſaid to be the Nature of the Paſſions, but only the Imperfection of our preſent
+State, becauſe as they are acts of the Mind, and have their chief Power from thence, ſo they
+can have no ſeparate Intereſt from it, nor be real<g ref="char:EOLhyphen"/>ly delighted with the Ob<g ref="char:EOLhyphen"/>jects of Senſe,
+which can bring no true Satisfaction to the Mind: yet ſo long as we are confin'd to this Mortal
+State, and the Soul acts con<g ref="char:EOLhyphen"/>junctly with the Body, it can never acquire ſuch an Abſolute
+Authority over it,
+<pb n="13" facs="tcp:170915:11"/> as not to comply, and ſhare with it, in ſome of its <hi>De<g ref="char:EOLhyphen"/>lights,</hi>
+and <hi>Calamities.</hi>
+            </p>
+            <p>But although we can't free our ſelves from the Ob<g ref="char:EOLhyphen"/>jects of Senſe; yet however we ought by
+all means to endeavour, to be as little ſubject to them as poſſible, and to raiſe our
+<hi>Paſſions</hi> a<g ref="char:EOLhyphen"/>bove the reach of their Tem<g ref="char:EOLhyphen"/>ptations. For as the Cauſes of Paſſions
+are generally from without, ſo Nature has fortified us with ſuffici<g ref="char:EOLhyphen"/>ent Power within, to
+reſiſt the ſtrongeſt Aſſault they can make upon us.</p>
+            <p>And here again we may obſerve that the true Uſe
+<pb n="14" facs="tcp:170915:12"/> and Nature of this Paſſion of <hi>Grief,</hi> as of all the reſt
+conſiſts in its Obedience to the Dictates and Preſcrip<g ref="char:EOLhyphen"/>tion of Reaſon; conſidered either
+in its <hi>Natural Light,</hi> or aſſiſted by the advantage of <hi>Revelation.</hi> The
+firſt can convince us of our Errors, but can't reform them; the other not only diſcovers to us
+the Diſorders and Imper<g ref="char:EOLhyphen"/>fections of our Natural State, but gives us Power and Strength to rectify
+them.</p>
+            <p>But beſides, that we may not be deceiv'd in Judging of our <hi>Paſſions,</hi> whether they
+are agreeable to <hi>Reaſon</hi> or not, it will be neceſſary to
+<pb n="15" facs="tcp:170915:12"/> conſider whether they are fix'd upon their due Object. We muſt not look
+ſo much upon the Paſſions that we find in Good Men, as the cau<g ref="char:EOLhyphen"/>ſes of them. <hi>Anger,
+Sorrow,</hi> and <hi>Fear</hi> may proceed from juſt Occaſions, and may be deſigned to very
+great Ends. To be angry with a Sinner, ſo as to correct and reform him; To <hi>grieve</hi> with
+thoſe in Miſery and Affliction, out of a Deſign to relieve and comfort them; and to be afraid
+for thoſe in dan<g ref="char:EOLhyphen"/>ger, ſo as to hinder them from periſhing; are all ſo far from being
+<hi>Crimes,</hi> that they deſerve to be number'd
+<pb n="16" facs="tcp:170915:13"/> amongſt the chiefeſt of <hi>Ver<g ref="char:EOLhyphen"/>tues.</hi>
+            </p>
+            <p>In the next place, we muſt conſider whether our Paſſi<g ref="char:EOLhyphen"/>ons are proportionable to the
+Object, and whether we do not eſteem things more or leſs than they deſerve, whether we do not
+purſue things indifferent, with grea<g ref="char:EOLhyphen"/>ter Ardency and Affection than we do thoſe which are of
+greateſt Concern and <hi>Im<g ref="char:EOLhyphen"/>portance</hi> to us. By theſe Me<g ref="char:EOLhyphen"/>thods we may judge of the
+Conformity of our Paſſions to the true Nature and De<g ref="char:EOLhyphen"/>ſigns of them. And we may hence alſo
+obſerve what Progreſs we make in Ver<g ref="char:EOLhyphen"/>tue
+<pb n="17" facs="tcp:170915:13"/> and Religion, by con<g ref="char:EOLhyphen"/>ſidering, of what Value and Eſteem they are to us,
+and whether They, or the things of Senſe have the Firſt or chief place in our
+<hi>Affections.</hi>
+            </p>
+            <p>Nature has diſpoſed the Parts of Man in a due Sub<g ref="char:EOLhyphen"/>ordination to each Other, &amp; has
+ſubjected the Inferior, as the <hi>Senſitive Appetite,</hi> to the ſuperior Faculty of the
+<hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>derſtanding.</hi> And if this Har<g ref="char:EOLhyphen"/>mony is not juſtly obſerved, the Whole becomes
+diſor<g ref="char:EOLhyphen"/>dered.</p>
+            <p>Thus when our Paſſions of <hi>Joy</hi> or <hi>Grief</hi> are carried away by outward
+Objects, and rely only upon the Judg<g ref="char:EOLhyphen"/>ment
+<pb n="18" facs="tcp:170915:14"/> of Senſe, without con<g ref="char:EOLhyphen"/>ſulting the Precepts of <hi>Rea<g ref="char:EOLhyphen"/>ſon,</hi> then is
+that Correſpon<g ref="char:EOLhyphen"/>dence of the Faculties diſſolv<g ref="char:EOLhyphen"/>ed, &amp; that <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> which ought to
+be between them wholly deſtroyed. Hence ariſes that Notion of dividing the Paſſi<g ref="char:EOLhyphen"/>ons into
+<hi>Senſitive</hi> and <hi>Ra<g ref="char:EOLhyphen"/>tional.</hi> This depends upon Reaſon, the other refuſes its
+Conduct, and denies its Au<g ref="char:EOLhyphen"/>thority.</p>
+            <p>Though our <hi>Paſſions</hi> are ſo far Regular, as they are governed by
+<hi>Reaſons</hi> yet herein alſo they may be diſ<g ref="char:EOLhyphen"/>orderly, unleſs we take care to inform our
+<hi>Reaſon</hi> aright. Prejudice may have got the
+<pb n="19" facs="tcp:170915:14"/> Aſcendant over our <hi>Reaſon:</hi> or elſe ſome wild extrava<g ref="char:EOLhyphen"/>gant
+Notions may have ob<g ref="char:EOLhyphen"/>ſcur'd it, or led it Captive by an appearance of Truth. And therefore we have
+a Rule to meaſure <hi>Reaſon</hi> by, that it may not be diſorder'd in it ſelf, or give
+occaſion to the Inferior <hi>Faculties</hi> to run into Confuſion. And to this End, (as I
+before intimated) <hi>Providence</hi> has took care of us, and revealed to us the Will and Councel
+of Heaven it ſelf, to diſcover to us the difference of thoſe things which ought to be the
+Ob<g ref="char:EOLhyphen"/>jects of our Paſſions, from thoſe of our Indifference,
+<pb n="20" facs="tcp:170915:15"/> which we ſhould not be much concerned for.</p>
+            <p>But to return. This Paſſion of <hi>Grief</hi> depends in ſome, upon the
+<hi>Conſtitution, Frame,</hi> or <hi>Habit</hi> of their Bodies. And as theſe are diſpoſed,
+ſo is their Paſſion more or leſs ſtrong and violent, and the firſt Object it meets
+with, produces ſome Alteration or Motion in them. They are generally hurried on to the Averſion
+of an Object, with<g ref="char:EOLhyphen"/>out any Thought or Delibe<g ref="char:EOLhyphen"/>ration, and are often diſturb<g ref="char:EOLhyphen"/>ed at Shadows and
+Trifles. Theſe are very Unhappy who are almoſt ever diſquie<g ref="char:EOLhyphen"/>ted; and therefore want
+<pb n="21" facs="tcp:170915:15"/> the greateſt Attention and Obſervance tomanage them<g ref="char:EOLhyphen"/>ſelves rightly, and
+have as much need of outward, as inward Medicines to be ap<g ref="char:EOLhyphen"/>plied to them.</p>
+            <p>Some are more apt to be paſſionate than Others, and what will not move One, is perhaps the
+cauſe of Miſery to another. Some, again, are more Thoughtful than O<g ref="char:EOLhyphen"/>thers, and upon ſuch
+Perſons, unleſs their Thoughts are fixt upon higher Objects that divert them, Sorrow commonly
+falls more heavy, and is more difficultly re<g ref="char:EOLhyphen"/>mov'd. Their Spirits are ge<g ref="char:EOLhyphen"/>nerally low, and
+conſequent<g ref="char:EOLhyphen"/>ly
+<pb n="22" facs="tcp:170915:16"/> more eaſily oppreſt, and where they have once fix'd their thoughts, they
+become Obſtinate and almoſt Im<g ref="char:EOLhyphen"/>moveable. For their Mind by long cuſtome is reduc'd almoſt
+to the ſame habit with their Body, and till this be cur'd, and brought to the right uſe of the
+Senſes, it will be difficult to reduce the Mind to its power of <hi>Reaſon.</hi>
+            </p>
+            <p>But of all the different kinds of <hi>Grief,</hi> that is <hi>ſtrong<g ref="char:EOLhyphen"/>eſt,</hi> and moſt
+<hi>violent,</hi> which flatters it ſelf with Reaſon to defend it. For where the Mind thinks it
+may with Honour and Vertue engage
+<pb n="23" facs="tcp:170915:16"/> its Affections to an Object, as is apparent in <hi>Friendſhip,</hi> it is
+apt to conclude that it may by the ſame reaſon la<g ref="char:EOLhyphen"/>ment the <hi>Loſs</hi> of that which ſo
+happily cemented it: and that it can't be too immode<g ref="char:EOLhyphen"/>rate in lamenting its being depriv'd of that
+Happineſs, which Vertue and Religion ſo much approved of.</p>
+            <p>From this miſtake it is that a great many People indulge themſelves in <hi>Sor<g ref="char:EOLhyphen"/>row,</hi> who
+have in all other Misfortunes of Life, Reaſon and Religion enough to ſup<g ref="char:EOLhyphen"/>port them. But how
+ground<g ref="char:EOLhyphen"/>leſs this Opinion is, may ap<g ref="char:EOLhyphen"/>pear, by conſidering, that
+<pb n="24" facs="tcp:170915:17"/> there are ſeveral Objects, which we may highly e<g ref="char:EOLhyphen"/>ſteem and admire, while
+they are in our Poſſeſſion, which we ought patiently and ſubmiſſively to reſign,
+when <hi>Providence</hi> thinks it convenient, to require them of us. For even Life it ſelf,
+which ought to be moſt Dear to us, is to be no longer the ſubject of our Deſires, than
+<hi>Providence</hi> orders the Continuance and Preſerva<g ref="char:EOLhyphen"/>tion of it. And if any End or Service of
+Religion com<g ref="char:EOLhyphen"/>mands our Reſignment of it, we ought to do it with the ſame Readineſs, that
+<hi>GOD</hi> Commands the Duty.</p>
+            <p>
+               <pb n="25" facs="tcp:170915:17"/>But although the Joys of the <hi>Mind</hi> are confeſſedly greater than
+thoſe of the <hi>Body,</hi> yet while they are thus united, they muſt always partake together
+in the En<g ref="char:EOLhyphen"/>joyment of an Object that's Dear to them, becauſe their Joy can never be compleat or
+ſatisfying, unleſs they both agree in the ſame In<g ref="char:EOLhyphen"/>clinations, (as is apparent in a great many
+ſenſual De<g ref="char:EOLhyphen"/>lights, which are attended with ſtings and gripes of Conſcience, becauſe the
+In<g ref="char:EOLhyphen"/>ward Dictates of Reaſon and Religion contradict them, and whiſper to us their
+unlawfulneſs) ſo nei<g ref="char:EOLhyphen"/>ther
+<pb n="26" facs="tcp:170915:18"/> can they ſeparate their common <hi>Sorrow,</hi> for the <hi>loſs</hi> of
+that which was an equal Satisfaction to Both. And hereupon it is, that <hi>Joy</hi> and
+<hi>Sorrow</hi> are ſometimes ſo very Affecting, that there are ſeveral who have fainted and
+ſunk away under Both. They are no better able to bear a ſudden Surprize of <hi>Joy,</hi> than
+they can moderate their Paſſions under an un<g ref="char:EOLhyphen"/>lookt for <hi>Calamity;</hi> Both o<g ref="char:EOLhyphen"/>ver-power
+their Spirits, and they prove too weak to bear up againſt them.</p>
+            <p>All which ſeem to concur in the Convincing us, that the Soul is capable of Great<g ref="char:EOLhyphen"/>er
+<pb n="27" facs="tcp:170915:18"/> 
+               <hi>Joy</hi> and <hi>Sorrow,</hi> than the Body is able to bear, ſince this
+often faints away, with an Exceſs of either: and may alſo be of uſe to de<g ref="char:EOLhyphen"/>monſtrate to us,
+that our Souls were deſigned for ano<g ref="char:EOLhyphen"/>ther State beſides this, ſince the <hi>Body,</hi> in
+that Frame e<g ref="char:EOLhyphen"/>ſpecially which it now is, cannot come up to that Per<g ref="char:EOLhyphen"/>fection, which the
+<hi>Soul</hi> is endued with.</p>
+            <p>Thus have I ſhown what <hi>Grief</hi> is, and wherein it con<g ref="char:EOLhyphen"/>ſiſts. I ſhall now ſearch
+into the different Cauſes that produce it in the Minds of Men. And then I ſhall en<g ref="char:EOLhyphen"/>deavour to
+offer ſome Preſer<g ref="char:EOLhyphen"/>vatives
+<pb n="28" facs="tcp:170915:19"/> and Helps againſt it, whereby we may be able to regulate it, prevent the
+Ex<g ref="char:EOLhyphen"/>ceſſes of it, and confine it within the limits of Reaſon and Religion. If we take theſe
+for our Guides in all our Actions, we ſhall be pa<g ref="char:EOLhyphen"/>tient and content in all Con<g ref="char:EOLhyphen"/>ditions; we
+ſhall neither ground our <hi>Hopes,</hi> or <hi>Fears, Joys</hi> or <hi>Sorrows</hi> on
+Uncer<g ref="char:EOLhyphen"/>tainties, but ſhall at laſt find to our unſpeakable Satisfa<g ref="char:EOLhyphen"/>ctions, that they will both
+conſpire together, in Lead<g ref="char:EOLhyphen"/>ing us to the ſame End, the <hi>Perfection</hi> of our
+<hi>Nature,</hi> and the full and entire Poſſeſſion of all <hi>Happineſs.</hi>
+            </p>
+            <p>
+               <pb n="29" facs="tcp:170915:19"/>But here it may be Objected, that there are ſo many Miſe<g ref="char:EOLhyphen"/>ries of Life,
+ſuch frequent and unthought of Dangers and <hi>Calamities,</hi> which are con<g ref="char:EOLhyphen"/>tinually thronging
+in upon us, and which make this State uneaſy and uncomfor<g ref="char:EOLhyphen"/>table to us, that it would be a Vain
+Attempt to think of Obtaining an abſolute Con<g ref="char:EOLhyphen"/>queſt over them, and pre<g ref="char:EOLhyphen"/>venting their being an
+<hi>Im<g ref="char:EOLhyphen"/>pediment</hi> to us in our Way to Happineſs.</p>
+            <p>To this it may be an<g ref="char:EOLhyphen"/>ſwer'd, That'tis our Weak<g ref="char:EOLhyphen"/>neſs and Cowardice in reſiſt<g ref="char:EOLhyphen"/>ing, that
+makes theſe Ene<g ref="char:EOLhyphen"/>mies ſo formidable to us. A
+<pb n="30" facs="tcp:170915:20"/> vigorous Oppoſition would ſoon make them appear leſs Terrible The
+greateſt Dan<g ref="char:EOLhyphen"/>ger and Difficulty is in the firſt Encounter; If we can withſtand that
+Couragiouſly, the Event muſt neceſſarily prove ſucceſsful to us. For all the Forces
+that theſe E<g ref="char:EOLhyphen"/>nemies have, are purely ow<g ref="char:EOLhyphen"/>ing to our own Opinion, and as that changes, ſo will
+thoſe diſappear. The Victory de<g ref="char:EOLhyphen"/>pends upon our own Will and Pleaſure, and if we have
+Reſolution enough to Con<g ref="char:EOLhyphen"/>quer, we ſhall never want Force and Strength to do it. And certainly,
+that <hi>Happi<g ref="char:EOLhyphen"/>neſs</hi> which this Victory will
+<pb n="31" facs="tcp:170915:20"/> make us Maſters of, ought to engage us in the purſuit after it,
+notwithſtanding all the Dangers that may threa<g ref="char:EOLhyphen"/>ten us in the way to it. Me<g ref="char:EOLhyphen"/>thinks a
+<hi>Comfortable</hi> and <hi>Con<g ref="char:EOLhyphen"/>tented</hi> Life, ſuch as every Reflection upon may create new
+Pleaſure and Delight in us; and at laſt a peaceable, ſerene, and chearful Death, with a
+joyful Proſpect of a<g ref="char:EOLhyphen"/>nother Life, is a Happi<g ref="char:EOLhyphen"/>neſs that ought to be pur<g ref="char:EOLhyphen"/>chas'd at any Rate;
+though at the firſt there may appear ſome <hi>Difficulties</hi> to encoun<g ref="char:EOLhyphen"/>ter,
+<hi>Miſeries</hi> to undergo, and <hi>Evils</hi> to ſuffer, before we can arrive at the
+Poſſeſſion of it.</p>
+            <p>
+               <pb n="32" facs="tcp:170915:21"/>But beſides it may be Ob<g ref="char:EOLhyphen"/>jected, that there are ſome that never feel
+<hi>Miſeries,</hi> and have no Diſappointmeents to <hi>grieve</hi> at: and therefore
+<hi>Grief</hi> is not ſo General as we Imagine; or at leaſt, the only Preſervative againſt
+it is, to follow the Examples of theſe Men who are never ſenſible of it.</p>
+            <p>To this, I can only ſay; That this Treatiſe was not deſigned for ſuch. For it would be a
+vain Endeavour to go about to perſwade the Senceleſs, Stupid, and Un<g ref="char:EOLhyphen"/>thinking, that there is
+ſuch a thing as Sorrow. Theſe know no Happineſs beyond
+<pb n="33" facs="tcp:170915:21"/> themſelves, their Thoughts are few, and confin'd to a very narrow Compaſs.
+They have no Joy or Sorrow, but what ſome ſudden, and un<g ref="char:EOLhyphen"/>deſign'd change of Counte<g ref="char:EOLhyphen"/>nance
+draws from them, and this perhaps without their own Knowledge or Obſer<g ref="char:EOLhyphen"/>vation. To ſuch as
+theſe it would be in vain to talk of Reaſon, unleſs we could firſt make them underſtand
+what it is to-be Men. But if any One ſhall ſtill urge, that theſe are Happy; I can only
+anſwer, that Happineſs would be a very mean En<g ref="char:EOLhyphen"/>joyment, if we ſhould not be ſenſible of
+it. For I think
+<pb n="34" facs="tcp:170915:22"/> a <hi>rational</hi> Being can partake of no <hi>real Happineſs,</hi> but
+what by juſt and unpreju<g ref="char:EOLhyphen"/>dic'd Reaſon it finds to be ſo. I ſuppoſe I may therefore paſs
+on to ſhew the Cauſes of Grief, and ſeek out wiſer Methods for ſecuring our ſelves
+againſt it, than theſe Men take up with.</p>
+         </div>
+         <div type="part">
+            <pb n="35" facs="tcp:170915:22"/>
+            <head>OF The CAUSES of GRIEF.</head>
+            <p>THe ſhortneſs of Man's Life in General, as well as the <hi>Deaths</hi> of thoſe, who are
+moſt Dear to us, is become the ſubject of our daily <hi>Complaint.</hi> And yet was Man to live
+here for e<g ref="char:EOLhyphen"/>ver, and be liable to the ſame Calamities, Troubles and Vexations which even the
+Beſt of Men now labour un<g ref="char:EOLhyphen"/>der,
+<pb n="36" facs="tcp:170915:23"/> we ſhould eſteem it the Greateſt of Miſeries. Every day brings ſome
+diſquiet a<g ref="char:EOLhyphen"/>long with it, and if we are ſo happy as to get rid of that, we yet find ſtill more
+Trou<g ref="char:EOLhyphen"/>bles that oppreſs us, and a new ſucceſſion of <hi>Grievances</hi> to complain of.</p>
+            <p>Every little Diſappoint<g ref="char:EOLhyphen"/>ment diſturbs us, and we can ſcarce get one minute of Eaſe,
+before innumerable un<g ref="char:EOLhyphen"/>thought of Calamities come thronging in upon us. We can promiſe our
+ſelves Secu<g ref="char:EOLhyphen"/>rity in nothing that we En<g ref="char:EOLhyphen"/>joy, nor Certainty in any thing that we hope for. When we
+imagine we are
+<pb n="37" facs="tcp:170915:23"/> ſurrounded with nothing but the Comforts and Plea<g ref="char:EOLhyphen"/>ſures of Life, a little
+Enlarg<g ref="char:EOLhyphen"/>ment of <hi>Thought</hi> diſcovers to us, that our Joys are not without a great mixture of
+Uneaſineſs. We find our ſelves encompaſſed with Dangers and Diſturbances, which we
+muſt always be a<g ref="char:EOLhyphen"/>fraid of, obnoxious to Infir<g ref="char:EOLhyphen"/>mities, which we can neither prevent, nor
+redreſs, ſubject to Wants which we cannot ſupply, and liable to <hi>Fears</hi> which we are
+unable to pro<g ref="char:EOLhyphen"/>vide againſt.</p>
+            <p>Jealouſies, Cares, and Anxieties, are the neceſſary Companions of all that we
+<pb n="38" facs="tcp:170915:24"/> can here call our own. Whilſt we promiſe our ſelves an Age of
+Happineſs in the fruition of ſomething that is Dear to us, the <hi>Fears</hi> that we find in
+our ſelves left we ſhould be deprived of it, will be often interrupting our Delights, and ſo
+far prevail upon our Thoughts, as to ſink our Spirits and pall even our ſweeteſt Pleaſures
+in the very Enjoyment.</p>
+            <p>Had we nothing but the ſatisfaction this Life can give us, to depend upon, every thing in it
+would ſoon become nauſeous to us. The more we taſt of it, the more we diſco<g ref="char:EOLhyphen"/>ver how
+inſufficient it is for
+<pb n="39" facs="tcp:170915:24"/> Our <hi>Happineſs;</hi> and how vain we are in our Hopes and Deſires, of a
+great many things, which are not in our power to obtain, and yet if we ſhould obtain them, they
+are not able to ſatisfy us. We are always complaining of Want, yet know not what it is that will
+content us. We are uneaſy in ſuch a Condition, and therefore ex<g ref="char:EOLhyphen"/>tend our Wiſhes to
+ſome<g ref="char:EOLhyphen"/>thing elſe, which when Poſ<g ref="char:EOLhyphen"/>ſeſs'd, we find we ſtill want ſomething more to
+deſire, and that we have not found an End, but only a Change of our Miſeries.</p>
+            <p>We are ſoon ſurfeited
+<pb n="40" facs="tcp:170915:25"/> with our own Happineſs, and what was one moment the Object of our
+Admiration, is the next that of our Con<g ref="char:EOLhyphen"/>tempt. We are always long<g ref="char:EOLhyphen"/>ing for a Change, and our beſt
+Delights ſo quickly cloy us, that we are uneaſy till they are relieved with a new Scene of
+Pleaſures; yet when we have enjoy'd theſe, we are ſtill as uneaſy as be<g ref="char:EOLhyphen"/>fore, and turn our
+Thoughts and Wiſhes upon ſomething elſe, which in the end proves as little ſatisfactory as
+the former. Thus our Life is only an eager purſuit after ſomething <hi>New;</hi> As though our
+whole <hi>Happineſs</hi> conſiſt<g ref="char:EOLhyphen"/>ed
+<pb n="41" facs="tcp:170915:25"/> in nothing elſe but Varie<g ref="char:EOLhyphen"/>ty and Novelty.</p>
+            <p>This is the State and Con<g ref="char:EOLhyphen"/>dition of Man's Life in Ge<g ref="char:EOLhyphen"/>neral, always deſiring ſome<g ref="char:EOLhyphen"/>thing that
+he wants, or en<g ref="char:EOLhyphen"/>deavouring to eaſe himſelf of ſomething that's trouble<g ref="char:EOLhyphen"/>ſome to him. Both
+theſe are the Cauſes of his Sorrow, and will always be diſquiet<g ref="char:EOLhyphen"/>ing him, while he courts an
+Imaginary <hi>Happineſs,</hi> which ſlips away, when he thinks he has the faſteſt hold of
+it.</p>
+            <p>Theſe ought to be the ſub<g ref="char:EOLhyphen"/>ject of our daily Conſiderati<g ref="char:EOLhyphen"/>ons. For if we take care to inform
+our ſelves aright, of the Miſeries and Troubles
+<pb n="42" facs="tcp:170915:26"/> we ought to expect, we ſhall be able to prevent the diſmal Effects of
+them: we ſhall keep our Reaſon firm and unſhaken by all their Force and Violence; and though
+they may hinder us from being perfectly Happy, yet they can never makes us Mi<g ref="char:EOLhyphen"/>ſerable.</p>
+            <p>If we conſider Man thro' the different Stages and Paſ<g ref="char:EOLhyphen"/>ſages of Life, we ſhall find that
+his Expectations of true <hi>Happineſs,</hi> and <hi>Satisfaction</hi> here Below are only vain
+and unreaſonable. Dangers and Difficulties, Troubles and Diſappointments, are ſo near<g ref="char:EOLhyphen"/>ly
+interwoven with our Na<g ref="char:EOLhyphen"/>ture,
+<pb n="43" facs="tcp:170915:26"/> more than any other art of the Creation, that a arrow ſearch into our
+Con<g ref="char:EOLhyphen"/>ſtitution, would almoſt make us acknowledge, that Man alone was deſign'd to Suffer and be
+made miſerable. As it were, on purpoſe to ſhew us, that the right exerciſe of Reaſon, was
+deſign'd for higher and nobler Ends, than to be employ'd on the Ob<g ref="char:EOLhyphen"/>jects of Senſe: and that the
+Imperfections of our Natu<g ref="char:EOLhyphen"/>ral State, would make us de<g ref="char:EOLhyphen"/>ſire and ſeek after One more perfect:
+would make us ac<g ref="char:EOLhyphen"/>knowledge, that our depend<g ref="char:EOLhyphen"/>ance is wholly upon Him, who alone can give us that
+<pb n="44" facs="tcp:170915:27"/> Happineſs, which we here in vain ſeek to find: and how great a Folly and
+Madneſs it is, to ſet our Minds upon Trifles, eſpecially to the neg<g ref="char:EOLhyphen"/>lect of the moſt
+ſerious, and neceſſary Duties of our Lives, and the moſt impor<g ref="char:EOLhyphen"/>tant End of our Being. And
+as Nature has ſupplied all o<g ref="char:EOLhyphen"/>ther Beings with what is ne<g ref="char:EOLhyphen"/>ceſſary for their Security and
+Preſervation, and has provi<g ref="char:EOLhyphen"/>ded them means for their own Support, almoſt as ſoon as Born,
+whereby they ſeem not to have ſo much need of a <hi>Deity:</hi> ſo is <hi>Man</hi> taught by
+thoſe Natural Defects he comes into the World with,
+<pb n="45" facs="tcp:170915:27"/> and by thoſe continual wants which he is not able to ſup<g ref="char:EOLhyphen"/>ply, to
+acknowledge himſelf more peculiarly the Care of <hi>Providence,</hi> and beg its
+aſſiſt<g ref="char:EOLhyphen"/>ance and ſupport under all the Miſeries and <hi>Afflictions</hi> of Life.</p>
+            <p>Let us ſuppoſe Man juſt come into the World; we ſhall find him neither Maſter of
+himſelf, nor any thing be<g ref="char:EOLhyphen"/>ſides: Helpleſs, and deſtitute of means for his own
+Preſer<g ref="char:EOLhyphen"/>vation; a <hi>Slave</hi> to the Miſe<g ref="char:EOLhyphen"/>ries and Inconveniences of Life <hi>Tears,
+Weakneſs,</hi> and <hi>Infirmities</hi> continually atten<g ref="char:EOLhyphen"/>ding on him, defective in the uſe
+both of Body and
+<pb n="46" facs="tcp:170915:28"/> Reaſon. Yet 'tis an <hi>Age</hi> that in this is more Happy and Perfect than
+any other part of Man's Life, that it hath neither <hi>Senſe</hi> to perceive, nor
+<hi>Reaſon</hi> to reflect on its miſe<g ref="char:EOLhyphen"/>rable Condition.</p>
+            <p>After <hi>Infancy</hi> and <hi>Child<g ref="char:EOLhyphen"/>hood,</hi> follows <hi>Youth,</hi> hurried on by violent
+Heats, and un<g ref="char:EOLhyphen"/>ruly Paſſions: without ei<g ref="char:EOLhyphen"/>ther <hi>Judgment</hi> to diſcern what is Praiſe
+worthy, or <hi>Prudence</hi> to guide its Acti<g ref="char:EOLhyphen"/>ons, or correct its <hi>Follies. Towards
+Superiors</hi>
+               <note place="margin">Tull. <hi>de Con<g ref="char:EOLhyphen"/>ſolat.</hi>
+               </note> 
+               <hi>Proud and Contem<g ref="char:EOLhyphen"/>ptuous,
+Fierce and Savage to<g ref="char:EOLhyphen"/>wards its Equals, and towards its Inferiors, Inſolent and Ar<g ref="char:EOLhyphen"/>rogant.</hi>
+               <pb n="47" facs="tcp:170915:28"/> Deſpiſing whatſoe<g ref="char:EOLhyphen"/>ver is Laudable and Vertu<g ref="char:EOLhyphen"/>ous, and eagerly purſuing
+Vanities and falſe Pleaſures. Eaſily drawn aſide by Luſt and Envy, without making the
+leaſt Oppoſition againſt them. Seldom hearkning to the Commands of Vertue or Reaſon, and
+wholly impati<g ref="char:EOLhyphen"/>ent of Reproof and Inſtructi<g ref="char:EOLhyphen"/>on. In a word, Man is then Inconſiderate, Light and
+In<g ref="char:EOLhyphen"/>conſtant in all his Actions, always following the Bent of his preſent Inclinations: without
+either ſenſe of Duty, Friendſhip or Gratitude. As careleſs of his own, as of o<g ref="char:EOLhyphen"/>thers
+Reputation. Ever cove<g ref="char:EOLhyphen"/>ting
+<pb n="48" facs="tcp:170915:29"/> what he admires in O<g ref="char:EOLhyphen"/>thers, and yet Extravagant and Profuſe of what he has
+himſelf. Prodigal of what he enjoys at preſent, careleſs and Improvident of what may happen
+for the future. From all which, at length proceed innumerable Troubles, Con<g ref="char:EOLhyphen"/>tumelies and
+Contentions. Infamy and Obloquy fall upon him from without: and ſerious Reflections upon his
+paſt Follies raiſe as great Diſturbances within.</p>
+            <p>Theſe are the Evils and Miſchiefs which theſe un<g ref="char:EOLhyphen"/>thinking Years are moſt lia<g ref="char:EOLhyphen"/>ble to; and
+though there are ſome, who have early im<g ref="char:EOLhyphen"/>bib'd
+<pb n="49" facs="tcp:170915:29"/> the Principles of <hi>Ver<g ref="char:EOLhyphen"/>tue</hi> and <hi>Generoſity,</hi> and whom and
+Happy <hi>Education</hi> hath prevented from falling into thoſe Ill <hi>Habits</hi> and vicious
+<hi>Courſes,</hi> which Others have enſlaved themſelves to; yet can't we therefore conclude
+that Youth is leſs obnoxi<g ref="char:EOLhyphen"/>ous to thoſe Evils and In<g ref="char:EOLhyphen"/>conveniencies, ſince there are but very
+few who have ſo far Conquer'd the Vio<g ref="char:EOLhyphen"/>lence of their <hi>Paſſions,</hi> as not to be
+captivated by their Irregular motions. And thoſe too who are moſt ſecure are not exempted
+from infinite Dangers<g ref="char:punc">▪</g> and Misfortunes. <hi>Envy, Malice,</hi>
+               <pb n="50" facs="tcp:170915:30"/> and <hi>Detraction</hi> threaten and aſſault them from abroad; and their
+own Paſſions of <hi>Love, Fear, Grief,</hi> or the like, will notwithſtanding all their care
+and caution, ſo far get the Aſcendant over their Reaſon, as often to diſturb if not wholly
+oppreſs them. <hi>Love</hi> is a Paſſion ſo ſtrongly rooted in our Na<g ref="char:EOLhyphen"/>ture, and
+eſpecially apt to be moſt violent in our <hi>Youth,</hi> that whatſoever we make the Object
+of it, we can't forego the Loſs of it, with<g ref="char:EOLhyphen"/>out great Diſſatisfaction, Reluctancy, and
+Uneaſy<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>
+               <pb n="51" facs="tcp:170915:30"/>Nor do our Miſeries leave us with our <hi>Youth,</hi> as Age encreaſes,
+ſo our Troubles too. And when we are grown up, our longer Ex<g ref="char:EOLhyphen"/>perience of Life only leads us to a
+wider Proſpect, and a more ſevere tryal of the moſt dangerous Evils and Miſchiefs that
+attend it. Hurry, and Buſineſs, pub<g ref="char:EOLhyphen"/>lick and private Cares are continually diſtracting us:
+and Reaſon which ſhould now more eſpecially be the guide and meaſure of our Thoughts and
+Actions<g ref="char:punc">▪</g> ſeems to have the leaſt ſhare in them. We ſuffer our Thoughts to ſoar high,
+and
+<pb n="52" facs="tcp:170915:31"/> are ſtrongly bent upon De<g ref="char:EOLhyphen"/>ſires, beyond our Reach, and out of our Power to
+obtain; neither conſidering the Fol<g ref="char:EOLhyphen"/>ly of our Wiſhes, nor the Pain and Uneaſineſs, that our
+violent and reſtleſs De<g ref="char:EOLhyphen"/>ſires neceſſarily bring upon us. We admire every thing at a
+diſtance, but when we have a nearer View of it, it falls ſhort of our Expecta<g ref="char:EOLhyphen"/>tions, and the
+Enjoyment of it proves unſatisfactory.</p>
+            <p>
+               <hi>Avarice</hi> and <hi>Ambition</hi> are Vices all of us in ſome mea<g ref="char:EOLhyphen"/>ſure are corrupted
+with, and though we can't but be ſen<g ref="char:EOLhyphen"/>ſible of the Fears, Cares, and Troubles; the Envy,
+<pb n="53" facs="tcp:170915:31"/> Hatred and Malice, they un<g ref="char:EOLhyphen"/>avoidably expoſe us to, yet ſtill we are as
+eager in the purſuit of our Deſigns, as though we expected a Real Happineſs from them.
+<hi>How miſerable,</hi> ſays <hi>Seneca, as well as ſhort is their Life, that compaſs with
+great Labour, what they poſſeſs with greater, and hold with Anxiety, what they acquire with
+Trouble.</hi> Our aims are at being Great, and all our Arts and Me<g ref="char:EOLhyphen"/>thods are directed to that One
+end, which at the beſt, is a State of Life the moſt ſlippery and uncertain of all others. For
+the higher we riſe, we ſtill make no ad<g ref="char:EOLhyphen"/>dition
+<pb n="54" facs="tcp:170915:32"/> to our Happineſs, un<g ref="char:EOLhyphen"/>leſs it be by directing us to the Search after it; I
+mean, by diſcovering to us the Weakneſs and Imperfection of our Nature, the Extrava<g ref="char:EOLhyphen"/>gance of
+its Deſires, the Un<g ref="char:EOLhyphen"/>certainty of its Enjoyments, and the Impoſſibility of finding a ſolid
+or laſting Sa<g ref="char:EOLhyphen"/>tisfaction in them. And by teaching us that the moſt Perfect, and Real
+Happineſs of this Life, depends upon the certain Hopes and Ex<g ref="char:EOLhyphen"/>pectations of a Better.</p>
+            <p>But above all, our State is never more dangerous and deplorable, than when we delude our
+ſelves, and
+<pb n="55" facs="tcp:170915:32"/> cover our Vices, under the plauſible Pretences of Ver<g ref="char:EOLhyphen"/>tue. And make uſe of
+our Affections to the flattering and betraying our Under<g ref="char:EOLhyphen"/>ſtanding and Will. We uſe all means
+poſſible to heap up Wealth, out of a pretence of doing good to Others, and ſacrifice the
+Eaſe and Quiet of our Life, to ſome cold Deſigns of Charity, which we can never put in
+Execution, while our deſires of Riches encreaſe, which ſeldom end but with our Lives. We
+imagine that Greatneſs is the only thing Honour'd and Reverenc'd in the World, and that Ri<g ref="char:EOLhyphen"/>ches
+<pb n="56" facs="tcp:170915:33"/> alone are the Cauſes of it, that thoſe who are Mean in the World can have
+no Reputation, but are buried in Obſcurity. That Poverty is Infamous, and deſpiſed by all,
+and that it is a Puniſh<g ref="char:EOLhyphen"/>ment inflicted upon the worſt and moſt undeſerv<g ref="char:EOLhyphen"/>ing part of
+Mankind. Thus we flatter our ſelves to our own Ruine, and blind our Reaſon to gratify our
+Paſſi<g ref="char:EOLhyphen"/>ons. I don't ſay but a Good Man may have intereſt in the Proſperities and
+Bleſſings of this Life, and uſe them with Innocence. Since 'tis not the Things themſelves
+but the Abuſe of them, that
+<pb n="57" facs="tcp:170915:33"/> is Unlawful. <hi>A Good Man.</hi> ſays <hi>Seneca, does not contemn Temporal
+Bleſſings, ſo as to drive them away, but if they come they are welcome, if not he'll never
+break his Heart for the want of them. He takes them into his Houſe, not into his Soul, and makes
+uſe of them, only as a Matter for his Vertue to work upon. There is no doubt, but he may ſhew
+him<g ref="char:EOLhyphen"/>ſelf better in Riches than in Poverty, that is to ſay his Temperance, his Liberality, his
+Magnificence, Providence and Prudence will be then more Conſpicuous.</hi>
+            </p>
+            <p>Riches are indeed in ſome meaſure ſubſervient
+<pb n="58" facs="tcp:170915:34"/> to a Man's Well-being in this World; yet as the En<g ref="char:EOLhyphen"/>joyment of them, can't make
+us Happy, becauſe un<g ref="char:EOLhyphen"/>certain and inſecure, ſo nei<g ref="char:EOLhyphen"/>ther can the Want of them make thoſe
+Unhappy, how<g ref="char:EOLhyphen"/>ever they may appear to O<g ref="char:EOLhyphen"/>thers, whoſe Diſires and Ambition never ſoar'd after
+them, but who contained themſelves within thoſe Li<g ref="char:EOLhyphen"/>mits which Providence had ſet them. That a
+moderate deſire of the Neceſſaries and Comforts of Life is not only Lawful but Commendable, I
+do ſuppoſe it univerſally granted, but then we muſt take care that we make
+<pb n="59" facs="tcp:170915:34"/> them only as <hi>Inſtruments</hi> and helps to Happineſs, but not
+Happineſs it ſelf: and that they be as <hi>Companions</hi> to us, but not <hi>Guides</hi> in
+our way to Happineſs. There is this difference in Riches, that they are the Servants of Good Men,
+whereas they are the Maſters of the Bad, and of thoſe who ſet their Minds upon them. <hi>From
+the One,</hi> ſays <hi>Seneca, if they depart they carry away nothing but themſelves, but from
+the Other, they take away the very Heart and Peace of the Poſ<g ref="char:EOLhyphen"/>ſeſſor along with them.</hi>
+It is true that if I might have my Choice, I would have
+<pb n="60" facs="tcp:170915:35"/> 
+               <hi>Health</hi> and <hi>Strength,</hi> and yet if I come to be viſited with
+Pain or Sickneſs, I will en<g ref="char:EOLhyphen"/>deavour to improve them to my Advantage by making a Righteous
+Judgement of them; as I ought to do of all the Appointments of <hi>Providence.</hi> So that as they
+are not Good in themſelves, neither are they Evil; but matter of Exerciſe for our Virtues; of
+<hi>Temperance,</hi> on the One hand, and of <hi>Re<g ref="char:EOLhyphen"/>ſignation,</hi> on the Other.</p>
+            <p>Thoſe who make Riches their utmoſt care and con<g ref="char:EOLhyphen"/>cern, find Diſappointments in that kind
+very inſupport<g ref="char:EOLhyphen"/>able to them. For whatſo<g ref="char:EOLhyphen"/>ever
+<pb n="61" facs="tcp:170915:35"/> Opinion a Man has of Happineſs, and whatever he places it in, if he chance
+to fall ſhort of it, whilſt he continues in that Opinion, he muſt unavoidably be
+Mi<g ref="char:EOLhyphen"/>ſerable. And therefore thoſe who extend their Hopes and Deſires to things out of their own
+Power, and fix their Happineſs upon them, can<g ref="char:EOLhyphen"/>not poſſibly avoid being ſo, becauſe they
+muſt frequent<g ref="char:EOLhyphen"/>ly miſs of their Deſires, may be always diſappointed in their Hopes, and be
+often overtaken by their Fears: Thus the <hi>Ambitious</hi> and <hi>Covetous,</hi> flatter
+themſelves with Hopes, which they
+<pb n="62" facs="tcp:170915:36"/> can never attain to; their Deſires encreaſe with their Honours and Riches,
+and after all, Diſſatisfaction and Diſcontent prove to be the chief of their Enjoyment.</p>
+            <p>All the Happineſs that this World can promiſe, is only to be purchas'd with a great deal of
+Pains and La<g ref="char:EOLhyphen"/>bour, is poſſeſt with conti<g ref="char:EOLhyphen"/>nual Cares and Fears, and ends in Troubles and
+<hi>Vexa<g ref="char:EOLhyphen"/>tion of Spirit.</hi> Even the Voluptuous Libertines who make Pleaſure their only
+Happineſs, find a great mix<g ref="char:EOLhyphen"/>ture of Uneaſineſs and Diſ<g ref="char:EOLhyphen"/>content always attending on it;
+either things do not
+<pb n="63" facs="tcp:170915:36"/> fall out according to their Wiſh, or elſe the Enjoyment cannot ſatisfy
+them; they either grow weary of it, or it ends before they would have it; all which is matter of
+Diſſatisfaction to them.</p>
+            <p>But beſides all this, that <hi>Anguiſh of Mind,</hi> that Hor<g ref="char:EOLhyphen"/>rour and <hi>Remorſe of
+Conſci<g ref="char:EOLhyphen"/>ence,</hi> which the Thoughts upon our miſ-ſpent time, bring upon us, imbitters all
+our Pleaſures, and makes Life it ſelf only a Burthen to us. A Reflection upon our paſt time,
+though it has been ſpent never ſo plea<g ref="char:EOLhyphen"/>ſantly, though every minute of it has been entertained
+
+<pb n="64" facs="tcp:170915:37"/> with the moſt delightful Gratifications of the Senſes, if at laſt the
+Mind be diſſa<g ref="char:EOLhyphen"/>tisfied, will be ſo far from giving us any Pleaſure or. Contentment, that it
+will only ſerve to enhaunce our Miſery. and though we had formerly perſwaded our ſelves to
+a Compliance with the Modes and Hu<g ref="char:EOLhyphen"/>mours of the Age, in ſome unlawful Practices, that we might
+not be thought Mo<g ref="char:EOLhyphen"/>roſe and Uncivil, yet thoſe falſe Pretences will then appear very
+inſufficient to ſupport us under the Ter<g ref="char:EOLhyphen"/>rors and Apprehenſions of a troubled Mind.</p>
+            <p>
+               <pb n="65" facs="tcp:170915:37"/>I ſhould now come to conſider the Miſeries and Infirmities of <hi>Old
+Age.</hi> But theſe are ſo manifeſtly Great, ſo univerſally Ac<g ref="char:EOLhyphen"/>knowledg'd, and fall ſo
+com<g ref="char:EOLhyphen"/>monly under every One's Obſervation, that a Deſcrip<g ref="char:EOLhyphen"/>tion of them, would be only
+ſuperfluous and unneceſſa<g ref="char:EOLhyphen"/>ry. If to be Infirm, Feeble, and Helpleſs, to be always in Wants,
+and yet unable to adminiſter to their own Ne<g ref="char:EOLhyphen"/>ceſſities, if to labour under a continual
+Conflux of Di<g ref="char:EOLhyphen"/>ſtempers, without any pro<g ref="char:EOLhyphen"/>ſpect of Cure, if to be al<g ref="char:EOLhyphen"/>ways in Pain, without any
+hopes of Remedy, is to be
+<pb n="66" facs="tcp:170915:38"/> Unhappy, then certainly theſe Men above all Others, muſt be confeſt to
+be ſo. Yet they have this Advan<g ref="char:EOLhyphen"/>tage, above any other part of Man's Life to comfort themſelves
+with, that being Free and at Liberty, from the noiſe and hurry of Buſi<g ref="char:EOLhyphen"/>neſs, and no way
+diſtracted with the tumultuous and troubleſome Cares of Life, their Minds are more at
+lei<g ref="char:EOLhyphen"/>ſure to enjoy themſelves with the happy Contempla<g ref="char:EOLhyphen"/>tions of their <hi>Future State.</hi> The
+Pleaſures of the Body, are no longer a Snare to them, and like Men depriv'd of Sight, who have
+their
+<pb n="67" facs="tcp:170915:38"/> Underſtanding more ſtrong and vigorous, by abſtract<g ref="char:EOLhyphen"/>ing it from the
+Objects of Senſe, their Souls are no longer in Danger, of being drawn away to the Gratifi<g ref="char:EOLhyphen"/>cation
+of the Senſual Appe<g ref="char:EOLhyphen"/>tite. They have a clear<g ref="char:EOLhyphen"/>er, and more perſpicuous Knowledge of Things, and
+their long Experience of the World, has taught them to prize every thing according to its
+<hi>Juſt Eſtimate. There is no Age,</hi> ſays <hi>Seneca, better adapted to Vertue, than
+that, which comes by many Experi<g ref="char:EOLhyphen"/>ences, and Long-ſufferings to the knowledge of it, for our
+Luſts are then weak, and our
+<pb n="68" facs="tcp:170915:39"/> Judgment ſtrong, and Wiſ<g ref="char:EOLhyphen"/>dom is the Effect of Time.</hi>
+            </p>
+            <p>They have learnt that to know themſelves is the beſt Philoſophy, that an Intimate
+Acquaintance with their own Souls, is the trueſt Happineſs: and as they have a nearer View of
+another Life, ſo are they more raviſht with the Pro<g ref="char:EOLhyphen"/>ſpect of it, and their Hopes and
+Expectations grow more lively and affecting.</p>
+            <p>It muſt be confeſt that where theſe Supports of a good Conſcience are want<g ref="char:EOLhyphen"/>ing, there
+Men are more Miſerable in this Age, than in all others; for in other
+<pb n="69" facs="tcp:170915:39"/> parts of man's Life, the Fear of Puniſhment is not ſo pre<g ref="char:EOLhyphen"/>valent,
+becauſe it ſeems at a greater diſtance, and there<g ref="char:EOLhyphen"/>fore does not ſo much di<g ref="char:EOLhyphen"/>ſturb and
+torment the mind in its Senſual Enjoyment, with the thoughts of it; but here the Soul is in
+con<g ref="char:EOLhyphen"/>tinual Anguiſh, the Body ſhaking and tottering, ready every minute to crumble into Duſt,
+the Soul amazed ſtands upon a dreadful Pre<g ref="char:EOLhyphen"/>cipice, fearing the next mo<g ref="char:EOLhyphen"/>ment to ſink into the
+Bot<g ref="char:EOLhyphen"/>tomleſs Hell. Now every Reflection that a Bad man makes is only a new Addi<g ref="char:EOLhyphen"/>tion to his
+miſery, and every
+<pb n="70" facs="tcp:170915:40"/> ſerious Thought, is only a freſh Torment to him. All the Outward
+Pleaſures, which he promiſed himſelf Support from, begin to fail him, and he has no Comfort
+within to flee to. If he looks backward, he can find no<g ref="char:EOLhyphen"/>thing that can give him
+<hi>Sa<g ref="char:EOLhyphen"/>tisfaction,</hi> and if forward, nothing but <hi>Deſpair.</hi> All that he can expect is
+either to be for ever miſerable, or to become <hi>nothing.</hi> The Fear of the One perſwades
+him to hope for the Other: not that he can convince himſelf by reaſon to believe it, but only
+that he has Reaſon enough to wiſh it
+<pb n="71" facs="tcp:170915:40"/> might be ſo. For a Proſpect of Miſery will put a Man upon a thouſand
+Shifts and Evaſions whereby to eſcape it, and he is apt to take up with the leaſt ſhadow or
+appearance of Reaſon, if he can thereby obtain any In<g ref="char:EOLhyphen"/>terval of Eaſe. For the Ex<g ref="char:EOLhyphen"/>tremity of
+<hi>Fear,</hi> as of all other Paſſions, puts the Soul into ſuch Diſorder and Con<g ref="char:EOLhyphen"/>fuſion,
+that it endeavours by all means to be releas'd from the Torments of it; and if it can procure one
+minute of Eaſe, it takes not time to conſider the Rea<g ref="char:EOLhyphen"/>ſonableneſs of the means and
+meaſures that obtain'd</p>
+            <p>
+               <pb n="72" facs="tcp:170915:41"/>But let us ſuppoſe a Man had ſome Rational grounds to believe, that
+hereafter he ſhould not <hi>Be;</hi> yet that Be<g ref="char:EOLhyphen"/>lief could be no real Satis<g ref="char:EOLhyphen"/>faction to him; For
+if he placed his Pleaſures in the things of Senſe, and the En<g ref="char:EOLhyphen"/>joyments of them, and if every
+Reflection upon them was pleaſing to him, it muſt neceſſarily follow, that the Thoughts and
+Fears of be<g ref="char:EOLhyphen"/>ing depriv'd of them muſt be very uneaſy to him. For 'tis natural for us to Grieve
+at the loſs of what we love, or if we are ſeparated from what we Admire. But if a Man takes no
+ſatisfaction
+<pb n="73" facs="tcp:170915:41"/> in the things of Life, and is grown weary of them, the Hopes of
+<hi>Annihilation</hi> can be no great Pleaſure to him, becauſe they are <hi>Out-balan<g ref="char:EOLhyphen"/>ced</hi>
+by the Miſeries of Life. For if they were not, he would endeavour to live long in the Enjoyment
+of a Hope and Expectation, which after Death he can no longer be ſenſible of.</p>
+            <p>It is certainly more De<g ref="char:EOLhyphen"/>ſirable not to be at all, than to be for ever Miſerable; but 'tis
+<hi>Rational</hi> alſo to ground my Belief of what ſhall be hereafter, upon the moſt ſolid
+and certain Rea<g ref="char:EOLhyphen"/>ſons, to conſider which is
+<pb n="74" facs="tcp:170915:42"/> moſt likely to be true, and which ſide its moſt danger<g ref="char:EOLhyphen"/>ous to Err on,
+and to take care, leſt Paſſion, Prejudice or Intereſt, ſhould miſlead or deceive me
+with a na<g ref="char:EOLhyphen"/>ked <hi>Appearance</hi> inſtead of Truth.</p>
+            <p>As the Thoughts upon what is paſt and to come, are the Cauſes of Miſery to the Bad; ſo
+do they bring great Pleaſure and Satisfa<g ref="char:EOLhyphen"/>ction to the Good. Their Expectation of Happineſs to
+come bears them up un<g ref="char:EOLhyphen"/>der all Afflictions here, and a <hi>Reflection</hi> on their former Life,
+gives them a full aſſu<g ref="char:EOLhyphen"/>rance, that their Expecta<g ref="char:EOLhyphen"/>tion
+<pb n="75" facs="tcp:170915:42"/> is firm and certain. Tho they have Imperfections to grieve at, and many
+Trou<g ref="char:EOLhyphen"/>bles to encounter with, yet they are fully perſwaded, that their Imperfect State here, will
+be advanced to a full Completion of Happi<g ref="char:EOLhyphen"/>neſs hereafter.</p>
+            <p>Had a good Man nothing to expect beyond the Grave, his Condition would be cer<g ref="char:EOLhyphen"/>tainly moſt
+Miſerable. Not but that there are more Plea<g ref="char:EOLhyphen"/>ſures, and more laſting Sa<g ref="char:EOLhyphen"/>tisfactions in the
+Practice of Vertue, than that of Vice: yet as they are greater, ſo the Thoughts of being for ever
+deprived of them,
+<pb n="76" facs="tcp:170915:43"/> would be more inſupporta<g ref="char:EOLhyphen"/>ble. The Imperfect State that we are now in,
+ſhews that our Nature deſires ſomething more compleat. And as a Good Man, who gives himſelf
+more Liberty in the free Exerciſe of his Reaſon, and converſing with the Nature of Things,
+finds, that Vertue conſider<g ref="char:EOLhyphen"/>ing the unavoidable Imper<g ref="char:EOLhyphen"/>fections, Hindrances, and Infirmities that
+Life is en<g ref="char:EOLhyphen"/>ſnared with, can never be here compleatly perfect, and conſequently not its own
+<hi>Reward,</hi> ſo ſhould he be con<g ref="char:EOLhyphen"/>vinced, that he ſhould be fruſtrated of thoſe
+Deſires
+<pb n="77" facs="tcp:170915:43"/> he finds in his Soul to Im<g ref="char:EOLhyphen"/>mortality, the Remainder of his Life would be
+uncom<g ref="char:EOLhyphen"/>fortable, and the Pleaſures of Vertue altogether unſa<g ref="char:EOLhyphen"/>tisfactory. Had I no other
+Reaſons to convince me, that I ſhall Exiſt hereafter (as I think I have innume<g ref="char:EOLhyphen"/>rable) yet
+that very <hi>Antipa<g ref="char:EOLhyphen"/>thy</hi> which I find in my ſelf to become Nothing, ſeems to me a
+convincing Argu<g ref="char:EOLhyphen"/>ment, and gives me ſuffici<g ref="char:EOLhyphen"/>ent Aſſurance, that I ſhall never fall into
+it.</p>
+            <p>But I ſhall paſs on from this Digreſſion to conſider ſome other Cauſes of Grief,
+which every Age of Man
+<pb n="78" facs="tcp:170915:44"/> that can make uſe of its Faculty of Reaſon, is par<g ref="char:EOLhyphen"/>ticularly concerned in.
+And which the more Think<g ref="char:EOLhyphen"/>ing part of Mankind, have always acknowledged as ſuch. And theſe are
+the loſs of a Man's Reputation, or the loſs of Friends. Theſe of all other Afflictions
+(ex<g ref="char:EOLhyphen"/>cept that of a wounded Conſcience) fall moſt heavy upon us, and make the deep<g ref="char:EOLhyphen"/>eſt
+Impreſſions upon our Minds.</p>
+            <p>Every Man has a Natu<g ref="char:EOLhyphen"/>ral Love for himſelf, and a Deſire to be ſpoken well of by Others. A
+good Name, and a fair Reputation not
+<pb n="79" facs="tcp:170915:44"/> only make a Man's Life pleaſant in the World, but are alſo ſo far
+neceſſary to our Converſe here, that whoever ſeems careleſs or prodigal of them, juſtly
+for<g ref="char:EOLhyphen"/>feits his Pretenſions either to Honour or Humanity. When a Man has once loſt his Credit, he
+is no longer fit for <hi>Society,</hi> he is ſhun'd and avoided by all, as tho' his very Company
+was In<g ref="char:EOLhyphen"/>fectious. Hence it is that thoſe who are not aſhamed to do an Ill <hi>Action,</hi> are
+yet unwilling it ſhould be made Publick, leſt it ſhould blaſt their Reputation, which they
+are generally more
+<pb n="80" facs="tcp:170915:45"/> concerned for, than the vici<g ref="char:EOLhyphen"/>ouſneſs of the Action. For though they
+inwardly hate the Practice of Vertue, yet they are aſham'd the World ſhould be made acquainted
+with it.</p>
+            <p>That Good Men may fall under ill Reports is too evi<g ref="char:EOLhyphen"/>dent, and the World has had too frequent
+Experiences of the truth of it; which is more to be lamented than wonder'd at, ſince there is
+ſo much envy and malice amongſt Men. Ill Nature will always be finding Faults, and where there
+are none, will take an opportu<g ref="char:EOLhyphen"/>nity to make them; and
+<pb n="81" facs="tcp:170915:45"/> 'tis hard if there are not thoſe who are Ill-natur'd enough to believe them.
+But though the ſlanders and reproaches of the Envious and Malicious, can never make a Good man
+miſera<g ref="char:EOLhyphen"/>ble, yet'tis certain they are a great abatement to his Happineſs. As if Provi<g ref="char:EOLhyphen"/>dence had
+permitted them on purpoſe, to ſhew us how inſecure and ſlippery our beſt Foundations are
+here, as alſo to teach us <hi>Humility,</hi> leſt we ſhould be too much in love with Life,
+and ſet too high a Value upon our <hi>Selves,</hi> and our preſent En<g ref="char:EOLhyphen"/>joyments.</p>
+            <p>
+               <pb n="82" facs="tcp:170915:46"/>I come now to conſider another great Cauſe of our Miſery and Sorrow, the
+<hi>Loſs of Friends.</hi> This of all Others falls heavy upon us, and is ſo much the greater,
+becauſe for ever Irrecovera<g ref="char:EOLhyphen"/>ble. All other Loſſes, as of Health, Reputation, Ho<g ref="char:EOLhyphen"/>nours,
+Riches, or the like, may either by Prudence or Diligence, be in ſome mea<g ref="char:EOLhyphen"/>ſure repair'd, but
+this alone can never more be reſtor'd to us. This is that Separa<g ref="char:EOLhyphen"/>tion, which makes this State
+ſo uneaſy and burdenſome to us, becauſe it deprives us of the trueſt Satisfaction, and
+Reliſh of Life. Nature
+<pb n="83" facs="tcp:170915:46"/> has made us Sociable Crea<g ref="char:EOLhyphen"/>tures, and all our Study and Endeavours, are
+deſigned to qualify us for that End. And this we are above all things delighted with, be<g ref="char:EOLhyphen"/>cauſe
+moſt agreeable to us.</p>
+            <p>But thought our Love of <hi>Society</hi> is natural to us, yet the choice of our Particular
+<hi>Company,</hi> is an Act of Pru<g ref="char:EOLhyphen"/>dence; For Friendſhip is not to be number'd amongſt the
+Goods of Chance and Fortune, but amongſt thoſe of Vertue. This is the moſt charming of all
+our De<g ref="char:EOLhyphen"/>lights, and which we are moſt fond of, and for whoſe Sake, we are willing to un<g ref="char:EOLhyphen"/>dergo
+<pb n="84" facs="tcp:170915:47"/> all the other Troubles and Miſeries of Life. <hi>The Enjoyment of this great
+Bleſs<g ref="char:EOLhyphen"/>ing, ſays Seneca, ſweetens all our Cares; diſpels our Sor<g ref="char:EOLhyphen"/>rows, counſels us in all
+Ex<g ref="char:EOLhyphen"/>tremities, and is a ſovereign Antidote againſt all the Ca<g ref="char:EOLhyphen"/>lamities of Life.</hi> It gives
+Comfort to bear us up in all Adverſities, and ſupplies us with Joy and Happineſs, in the
+midſt of the greateſt Afflictions; and ſo long as we can preſerve the Enjoy<g ref="char:EOLhyphen"/>ment of it,
+whatever elſe may befall us, we are ſure never to be Miſerable.</p>
+            <p>But not with ſtanding the great Benefit and Advan<g ref="char:EOLhyphen"/>tage
+<pb n="85" facs="tcp:170915:47"/> of this <hi>Bleſſing</hi> to Man<g ref="char:EOLhyphen"/>kind, yet it has this Imper<g ref="char:EOLhyphen"/>fection in
+it, that it is un<g ref="char:EOLhyphen"/>certain; there is no ſecurity againſt the <hi>Loſs</hi> of it. 'Tis this we
+in vain lament, and continually <hi>Grieve</hi> at, tho' we know our <hi>Grief</hi> can give us no
+Remedy. <hi>Friendſhip</hi> is ſo much the Intereſt of mankind, that not to be ſen<g ref="char:EOLhyphen"/>ſible
+of the Loſs of it, is ei<g ref="char:EOLhyphen"/>ther to be more or leſs than Men. There are but few that are ſo much
+raiſed a<g ref="char:EOLhyphen"/>bove the Senſe of this Cala<g ref="char:EOLhyphen"/>mity, as not to be affected with it. For it is one of the
+greateſt Tryals of our Na<g ref="char:EOLhyphen"/>ture, and has need of the
+<pb n="86" facs="tcp:170915:48"/> utmoſt Efforts of Vertue, patiently to undergo it. Notwithſtanding all our
+care and caution, our ſtrong<g ref="char:EOLhyphen"/>eſt and moſt vigorous Re<g ref="char:EOLhyphen"/>ſolutions prove too weak to
+withſtand it. And we find it an eaſier matter at a di<g ref="char:EOLhyphen"/>ſtance to reaſon about it, than to
+act Prudently when we come to the Tryal. And though we frequently ima<g ref="char:EOLhyphen"/>gine, we make vigorous
+Preparations againſt it, yet when it falls upon us, it com<g ref="char:EOLhyphen"/>monly finds us Defenſeleſs and
+Unarm'd. We can ne<g ref="char:EOLhyphen"/>ver ſo far conquer our Love of Happineſs here, as to be ſeparated from the
+Deareſt
+<pb n="87" facs="tcp:170915:48"/> part of it, without any Con<g ref="char:EOLhyphen"/>cern or Reluctancy. Nature ſo far prevails in
+us, notwith<g ref="char:EOLhyphen"/>ſtanding the ſevereſt Dict<g ref="char:EOLhyphen"/>ates of the moſt exalted Reaſon, that as it can't
+poſ<g ref="char:EOLhyphen"/>ſeſs its Enjoyments without a great deal of Satisfaction, ſo neither can it bear the
+Loſſes of them, without the greateſt Regret, and the moſt paſſionate Expreſſions of
+<hi>Sorrow.</hi> And if it falls not into Exceſs, I ſuppoſe there is none ſo much a
+<hi>Stoick</hi> as to condemn it.</p>
+            <p>But the Loſs of Friends is ſtill more affecting, when we had almoſt promiſed our
+ſelves a laſting Enjoyment
+<pb n="88" facs="tcp:170915:49"/> of them: when the Health and Vigour of a Conſtituti<g ref="char:EOLhyphen"/>on, joyn'd with a
+ſweet and obliging Temper, an affable and courteous Behaviour, a concern and tenderneſs for the
+Good of Others, an ear<g ref="char:EOLhyphen"/>neſt ſtudy and endeavour to promote the Publick Hap<g ref="char:EOLhyphen"/>pineſs and
+Tranquillity of Mankind, mixt with the moſt endearing Charms of Converſation, gave us large
+Hopes of ſuch a Happineſs, as might withſtand all the Deſigns of Malice and Envy, and
+overcome, if poſſible, all the Uncertainties of Chance and Fortune. Such a Loſs, does
+certainly deſerve our
+<pb n="89" facs="tcp:170915:49"/> greateſt Senſe of it, chal<g ref="char:EOLhyphen"/>lenges the utmoſt Bounds of true Sorrow; and
+if any thing can, may excuſe, at leaſt in ſome meaſure pal<g ref="char:EOLhyphen"/>liate the Exceſs of it. But
+although even this may ne<g ref="char:EOLhyphen"/>ver juſtify ſuch immoderate Grief, which abſtracts the Mind, as
+well from the Du<g ref="char:EOLhyphen"/>ties of Humanity, as thoſe of Religion, yet it may ſerve to Convince us, how
+Vain a thing it is to put our Truſt and Confidence in Man, whoſe Days are few and uncertain,
+and therefore to he but little accounted of.</p>
+            <p>Thus we ſee every Part, and Condition of Life, leads
+<pb n="90" facs="tcp:170915:50"/> us only to a new Scene of Miſeries. Our firſt Entrance into Life is
+miſerable; and the longer Experience we have of the World, the more Calamities we have ſtill to
+complain of. We begin with Tears and <hi>Sorrows,</hi> and can never get ſecure of them, till
+Death comes at laſt and pays the <hi>Ranſom</hi> for us. There is no ſpace of time that we
+enjoy, with ſo much Freedom and Satisfaction as to pronounce our ſelves tru<g ref="char:EOLhyphen"/>ly <hi>Happy.</hi>
+We have always ſomething or other either to fear or hope for. We deſire what we have not, and
+are afraid, leſt what we are
+<pb n="91" facs="tcp:170915:50"/> poſſeſt of, ſhould be ſnatcht away from us.</p>
+            <p>Though we know, that true or falſe Notions of Things, and the regulating of our Deſires, and
+all our other Paſſions, are in a great meaſure in our own Power, yet we often deceive our
+ſelves, and ſuffer our Irre<g ref="char:EOLhyphen"/>gular Appetites, to draw us aſide againſt the cleareſt
+Convictions of Reaſon. There are few of us, that can be perſwaded to forego an Enjoyment, which
+we find no preſent Trouble or Inconvenience from, though at the ſame time we are convinc'd
+that'tis a Crime
+<pb n="92" facs="tcp:170915:51"/> in us to indulge it, and that hereafter we ſhall be re<g ref="char:EOLhyphen"/>warded with a
+ſevere Pu<g ref="char:EOLhyphen"/>niſhment, ſuitable to our Demerit.</p>
+            <p>If Nature has ſubjected us to many Troubles and Vexations, we inſtead of re<g ref="char:EOLhyphen"/>dreſſing
+them, add innume<g ref="char:EOLhyphen"/>rable Others to them. We live inconſiderately, and as we are thoughtleſs of
+the leſſer Miſfortunes and miſe<g ref="char:EOLhyphen"/>ries of Life, ſo are we un<g ref="char:EOLhyphen"/>provided for the Greater,
+whereby it happens that they overwhelm us, and we frequently ſink under the weight of them.</p>
+            <p>
+               <pb n="93" facs="tcp:170915:51"/>There are ſeveral other Cauſes of our <hi>Grief</hi> and Diſturbance,
+which every Day's Experience gives us freſh Inſtances of, but I have not time to take notice of
+them. Theſe which I have mentioned, as I think they are the moſt Notorious, ſo they may
+ſerve to convince us in general of the Neceſſi<g ref="char:EOLhyphen"/>ty of looking higher for Help and Support
+under them. And may alſo be of uſe to inform us, what a poor indigent Creature Man is, and how
+much he wants of finding Happineſs, while he expects it from himſelf, or the Things of this
+Life.
+<pb n="94" facs="tcp:170915:52"/> Was Happineſs to be ob<g ref="char:EOLhyphen"/>tain'd here, certainly after all the Searches that
+have been made after it, ſome One or other would poſſibly have found it: But at laſt, all
+ends in this, <hi>Vanity of Vanities, all is Vanity. What Profit hath a Man of all his Labour,
+which he taketh under the Sun. Verily Man walk<g ref="char:EOLhyphen"/>eth in a vain Shadow and diſ<g ref="char:EOLhyphen"/>quieteth himſelf in
+vain.</hi>
+            </p>
+            <p>But though theſe Afflicti<g ref="char:EOLhyphen"/>ons which I have mention<g ref="char:EOLhyphen"/>ed be common to All, yet are they terrible
+to None, but ſuch as depend upon this Life for their Happi<g ref="char:EOLhyphen"/>neſs. Hence it will appear
+<pb n="95" facs="tcp:170915:52"/> that our falſe <hi>Opinions</hi> of Things, and not the Things themſelves,
+are the Real Cauſes of our Misfortunes. Nothing is uncertain and unconſtant to him that is
+prepar'd againſt it; Nor does any thing come unex<g ref="char:EOLhyphen"/>pected to him that is pro<g ref="char:EOLhyphen"/>vided for it. He that
+is ſet<g ref="char:EOLhyphen"/>led and unconcerned at the ſmiles or frowns of Fortune, can never meet with
+Diſap<g ref="char:EOLhyphen"/>pointments. For he that makes uſe of thoſe Aſſiſt<g ref="char:EOLhyphen"/>ances, which the Great Au<g ref="char:EOLhyphen"/>thor
+of Nature has provided us with, whereby to miti<g ref="char:EOLhyphen"/>gate, if not wholly to ſubdue the force of
+Afflictions, can
+<pb n="96" facs="tcp:170915:53"/> never be wholly overcome by them. <hi>Though Man, as (Tully</hi>
+obſerves)<note place="margin">Tull. <hi>Fragmen. De Rep.</hi>
+               </note> 
+               <hi>comes into the World with
+a Body naked, Frail, and Infirm, with a Mind ſubject to Cares and Troubles, dejected by Fears,
+impatient of Labour, and prone to Luſt; yet there is a Divine Flame of Wit and <g ref="char:V">Ʋ</g>nderſtanding,
+which lies as it were Obſcure, and overwhelm'd, which with due Care and Diligence may be ſo
+improv'd as to fortify us againſt Troubles, to prevent our Fears, and ſubdue our ir<g ref="char:EOLhyphen"/>regular
+Appetites and rebel<g ref="char:EOLhyphen"/>lious Paſſions.</hi> Had we no Miſfortunes to graple with,
+<pb n="97" facs="tcp:170915:53"/> no Luſts or Paſſions to con<g ref="char:EOLhyphen"/>quer, we ſhould have ſo little uſe of
+the Exerciſe of Vertue and Reaſon, that they would hardly have ſo much as a Name amongſt
+us. But how far and by what methods, we may both prevent our Miſeries and remedy our Griefs, will
+be now my Buſineſs to con<g ref="char:EOLhyphen"/>ſider.</p>
+         </div>
+         <div type="part">
+            <pb n="98" facs="tcp:170915:54"/>
+            <head>OF The REMEDY of <hi>GRIEF.</hi>
+            </head>
+            <p>FReedom from Pain or Trouble is a Happineſs we all aim at, but are moſt of us miſtaken in
+our Search after it. We are apt to be-ſo much concerned for what is preſent, as to neglect
+make<g ref="char:EOLhyphen"/>ing Proviſion for Futurity Could we give our ſelves time to conſider the extent and
+reaſon of Things, we
+<pb n="99" facs="tcp:170915:54"/> ſhould find little cauſe to be exceſſive in our <hi>Enjoyments,</hi>
+or caſt down with our <hi>Miſ<g ref="char:EOLhyphen"/>fortunes,</hi> to be elevated with our <hi>Hopes</hi> or
+diſtracted by our <hi>Fears.</hi>
+            </p>
+            <p>Nature that has endued us with <hi>Paſſions,</hi> has alſo provided us with ſuffici<g ref="char:EOLhyphen"/>ent
+Power to Regulate them. And though there are ſo many different Ob<g ref="char:EOLhyphen"/>jects which are apt to hurry us
+away, and biaſs our In<g ref="char:EOLhyphen"/>clinations, yet we have a Judgment given us to diſtin<g ref="char:EOLhyphen"/>guiſh between
+the Good and the Bad, to fix in our Minds true notions of Things, and apply them to thoſe proper
+<pb n="100" facs="tcp:170915:55"/> Uſes to which they were deſign'd.</p>
+            <p>Man is a Compound of <hi>Body</hi> and <hi>Mind,</hi> which have each a different Intereſt to
+manage, and accordingly as either prevails, ſo the whole Bent of our Paſſions and
+In<g ref="char:EOLhyphen"/>clinations turns: were we either all <hi>Senſe</hi> or all <hi>Rea<g ref="char:EOLhyphen"/>ſon,</hi> we ſhould
+have nothing to miſlead us, but ſhould go on, in a direct Tendency to whatſoever was moſt
+ſuita<g ref="char:EOLhyphen"/>ble to our Nature. The one would want Judgment, to know or value any Pleaſure above that
+of <hi>Senſe;</hi> and the other could not conform it ſelf to any Enjoyments
+<pb n="101" facs="tcp:170915:55"/> below thoſe of the <hi>Mind,</hi> and the clear Knowledge of its own
+Perfections. This is moſt like the Life of An<g ref="char:EOLhyphen"/>gels, who have only Spiri<g ref="char:EOLhyphen"/>tual Converſation to be
+de<g ref="char:EOLhyphen"/>lighted with; the Other, that of Brutes, who can ne<g ref="char:EOLhyphen"/>ver raiſe themſelves beyond the
+Apprehenſions of their Senſitive Nature. Which of theſe we ought to follow, either the
+Dictates of <hi>Senſe</hi> or <hi>Reaſon,</hi> I ſhould think, had we no Prejudices that
+obſcure our Underſtandings, would be no difficult matter to decide. If a far nobler Being
+deſerves the Prefer<g ref="char:EOLhyphen"/>ence to a more Abject
+<pb n="102" facs="tcp:170915:56"/> and Ignoble, then muſt alſo, the eſſential Difference of them be
+placed in the ſame Degree of Superiority. But we are generally too much engag'd in the things of
+Senſe, to be at leiſure to paſs a true Judgment upon them, and thereupon are in<g ref="char:EOLhyphen"/>clin'd to
+believe that their Enjoyments are Real, and agreeable to the Dictates of Reaſon.</p>
+            <p>And thus we deceive our ſelves, till ſome croſs Acci<g ref="char:EOLhyphen"/>dents or Misfortunes, ſome Bodily
+Torment or Indiſ<g ref="char:EOLhyphen"/>poſition, gives us another notion of Things, and ren<g ref="char:EOLhyphen"/>ders all thoſe
+Pleaſures nau<g ref="char:EOLhyphen"/>ſeous
+<pb n="103" facs="tcp:170915:56"/> and diſtaſtful to us, which we before thought the only true
+<hi>Happineſs</hi> of Life.</p>
+            <p>And this I think it is, which diſcovers to us a ſuffi<g ref="char:EOLhyphen"/>cient difference beween <hi>Good</hi>
+and <hi>Evil;</hi> that the Pleaſure and Satisfaction a<g ref="char:EOLhyphen"/>riſing from the one, is dura<g ref="char:EOLhyphen"/>ble and
+certain, not to be changed by the inconſtancy of Fortune, or impairments of Health and
+Conſtitution; whereas the other can be no longer Enjoy'd, or ſo much as reflected upon with
+Comfort, then the Body and the ſenſible Appetite is qua<g ref="char:EOLhyphen"/>lify'd and rightly diſpoſed<g ref="char:punc">▪</g>
+               <pb n="104" facs="tcp:170915:57"/> Was there no real Diſtincti<g ref="char:EOLhyphen"/>on between what we call <hi>Vertue</hi> and
+<hi>Vice,</hi> in the foun<g ref="char:EOLhyphen"/>dation of Things, why ſhould the Reflection upon the One, when we can
+no longerſatisfy our ſelves with the Delights of it, cauſe ſuch Remorſe, Terror, and
+Di<g ref="char:EOLhyphen"/>ſtraction within us, and the Other entertain us with ſuch infinite Pleaſure, what<g ref="char:EOLhyphen"/>ſoever
+State of Life we hap<g ref="char:EOLhyphen"/>pen to fall into. Were all Actions the ſame, and de<g ref="char:EOLhyphen"/>riv'd their
+<hi>Nature</hi> only from the <hi>Opinions</hi> of Men, why did it never happen that ſome
+Perſon or other ſhould have repented of a Good
+<pb n="105" facs="tcp:170915:57"/> Action as well as of a Bad one? For the Reaſon would be the ſame, ſince
+ſome Men's Opinions only of <hi>Good</hi> and <hi>Evil,</hi> could never produce ſuch violent
+Effects in the Minds of Others, e<g ref="char:EOLhyphen"/>ſpecially of thoſe who Pro<g ref="char:EOLhyphen"/>ſeſs to believe the
+Con<g ref="char:EOLhyphen"/>trary.</p>
+            <p>But to come nearer: 'tis Afflictions alone which diſ<g ref="char:EOLhyphen"/>cover to us, the Eſſential
+difference, between the Im<g ref="char:EOLhyphen"/>preſſions of <hi>Fancy,</hi> and thoſe of <hi>Reaſon.</hi>
+Theſe ſet things before us in their true Light, and diſpel thoſe miſts from our Eyes,
+which long Preju<g ref="char:EOLhyphen"/>dice and Unthoughtfulneſs,
+<pb n="106" facs="tcp:170915:58"/> had unhappily rais'd before them. It is by this means we come to know and
+con<g ref="char:EOLhyphen"/>feſs, that the Pleaſures of Senſe can only ſatisfy the Senſe, and that the Mind hath
+no ſhare in them. For if it had, inſtead of being diſ<g ref="char:EOLhyphen"/>ſatisfied, it would pleaſe and
+divert the Body with the thoughts of them, and when the Body is diſabled, it would relieve it
+with a grateful Remembrance of its paſt Enjoyments.</p>
+            <p>We find in our ſelves Rea<g ref="char:EOLhyphen"/>ſon to thank <hi>GOD</hi> for the <hi>Afflictions</hi> as well as
+the Comforts of <hi>Life:</hi> when by theſe we are apt to forget
+<pb n="107" facs="tcp:170915:58"/> our ſelves, and the Relation we bear to another Life, and to fancy our
+ſelves already as Happy as Heaven it ſelf can make us, and unexpected Affliction deprives us of
+our Imaginary Happineſs, and inſtead of that, reduces us to the uſe of Reaſon, makes us
+know our ſelves, and con<g ref="char:EOLhyphen"/>ſider the End and Deſign of our Being. The more we are oppreſt
+with the Cala<g ref="char:EOLhyphen"/>mities and Troubles of this Life the more we are taught to prize and ſeek after the
+ſerene and undiſturbed Joys of another.</p>
+            <p>For if we look into the Soul, and obſerve the ſprings
+<pb n="108" facs="tcp:170915:59"/> of its Motions, we ſhall find, that Afflictions are general<g ref="char:EOLhyphen"/>ly the firſt
+occaſion of Mens conquering their Inclina<g ref="char:EOLhyphen"/>tions, of ennobling their Minds, of raiſing them to a
+due contempt of the Enjoy<g ref="char:EOLhyphen"/>ments of Senſe, and of keep<g ref="char:EOLhyphen"/>ing Humane Nature, with all its Deſires,
+within the bounds of Reaſon and Ver<g ref="char:EOLhyphen"/>tue.</p>
+            <p>We are generally apt to think <hi>Afflictions</hi> the greateſt Miſery that could happen to
+us. Yet did we conſider the Uſes we ought to make of them, and apply our ſelves to that End,
+we ſhould at laſt find cauſe to acknow<g ref="char:EOLhyphen"/>ledge
+<pb n="109" facs="tcp:170915:59"/> the Goodneſs of <hi>Pro<g ref="char:EOLhyphen"/>vidence</hi> therein to us. And though they fall
+ſometimes very ſevere upon us, yet thereby we may be taught to live more Conſiderately, and
+better provide ourſelves againſt them, for the time to come. Did we leave all our Concerns to
+<hi>Providence,</hi> and were contented to ſub<g ref="char:EOLhyphen"/>mit our ſelves to all its Diſ<g ref="char:EOLhyphen"/>penſations, we
+ſhould find few <hi>Afflictions</hi> threatning us, but which we might eaſily overcome. But we
+are ſo very fond of our preſent Eaſe, that we are unwilling to be at any trouble in
+pro<g ref="char:EOLhyphen"/>viding againſt a future Evil:
+<pb n="110" facs="tcp:170915:60"/> And are generally ſo care<g ref="char:EOLhyphen"/>leſs, that we never regard a Miſery that's
+coming upon us, till 'tis too late to apply a Remedy. We are willing to be Happy, but yet would be
+at no Pains and Trouble, whereby to make our ſelves ſo.</p>
+            <p>We ſeldom think of <hi>Af<g ref="char:EOLhyphen"/>flictions</hi> till we are oppreſt by them, and then we are not
+able to reſiſt the Weight of them. If this be our caſe, when unprovided againſt the
+Calamities of this Life, it well deſerves our utmoſt Care and Diligence, ſince we can't
+prevent them; to try by what means we may make
+<pb n="111" facs="tcp:170915:60"/> them moſt eaſy and uſeful to us, that in the End, we may grow both
+wiſer and better by them.</p>
+            <p>In order therefore to the Remedying our <hi>Griefs,</hi> and the ſupporting our ſelves under
+all <hi>Afflictions,</hi> it will be neceſſary for us in the firſt place to conſider the
+Nature of thoſe things which we generally make the Cauſes of our Sorrow. In the next place, to
+fix in our Minds true Notions of Religion. And laſtly it will be our Du<g ref="char:EOLhyphen"/>ty to conſider; what
+Dan<g ref="char:EOLhyphen"/>gers we expoſe our ſelves to, if we indulge our Sorrow, and take no care to correct
+<pb n="112" facs="tcp:170915:61"/> the Abuſes of it. If we try theſe Expedients, we ſhall never be wanting
+in our Duty either to <hi>GOD</hi> or our ſelves; but ſhall make our Lives <hi>Comfortable</hi>
+and <hi>Pleaſant</hi> as well as <hi>Religious.</hi>
+            </p>
+            <p>Firſt of all then, for the <hi>fixing in our Minds the true Notions and Nature of thoſe
+things which we have a Concern for,</hi> whereby to guide our ſelves by the Rules of Wiſdom and
+Prudence, and to keep our Judgments ſteady and in<g ref="char:EOLhyphen"/>flexible, ſo as not to be drawn aſide by
+the Violence of our corrupt Affections, it will be neceſſary to conſider whe<g ref="char:EOLhyphen"/>ther they are
+Certain, Du<g ref="char:EOLhyphen"/>rable
+<pb n="113" facs="tcp:170915:61"/> and Conſtant, or of a periſhing Nature, and ſhort Continuance; what
+Rela<g ref="char:EOLhyphen"/>tion it is that they bear to us, whether they are ſuch as we can call our Own, or at the
+diſpoſal of Others, and ſuch as we may at any time be deprived of. As alſo, what is the
+Uſe and End of them. Whether they were given us to be our only Hap<g ref="char:EOLhyphen"/>pineſs, or lent us upon
+Con<g ref="char:EOLhyphen"/>ditions, to ſee what Im<g ref="char:EOLhyphen"/>provements we could make of them. And then it will be our wiſeſt
+way to value or eſteem them according<g ref="char:EOLhyphen"/>ly; and ſet that price upon them, which we find the
+<pb n="114" facs="tcp:170915:62"/> Nature of them deſerves<g ref="char:punc">▪</g>
+            </p>
+            <p>Reaſon was given us for this End, to form our Judg<g ref="char:EOLhyphen"/>ments a right, and ſo far to direct us in
+our way to Happineſs, that we may not make that the Object of it, w<hi rend="sup">ch</hi> is altogether
+Inſufficient for it; that we may not be deceiv'd with Shadows, nor miſtaken in thoſe things
+which are of greateſt <hi>Impor<g ref="char:EOLhyphen"/>tance</hi> to us. We can eaſily pardon and paſs by an Error
+in a ſmall matter both in our ſelves and Others; but we ought to he very Careful and Cautions
+how we fall into miſtakes where the Conſequence is dangerous,
+<pb n="115" facs="tcp:170915:62"/> and when our Peace or Mi<g ref="char:EOLhyphen"/>ſery depends upon it.</p>
+            <p>When we act moſt Ra<g ref="char:EOLhyphen"/>tionally, we generally va<g ref="char:EOLhyphen"/>lue Things according to the Duration and
+Continuance of them, as well as to the Propriety we have in them. What is not our own, though we
+may admire it, yet we can't doat upon it, nor be much concerned what be<g ref="char:EOLhyphen"/>comes of it, becauſe we
+bear no Relation to it: nor are we very Sollicitous about any thing that we our ſelves cannot
+Enjoy. And though it be ſomething that we have a Right to, and which we may Enjoy, yet if we
+<pb n="116" facs="tcp:170915:63"/> are ſure, that it will be only for a very ſhort inconſidera<g ref="char:EOLhyphen"/>ble time,
+it is little more Sa<g ref="char:EOLhyphen"/>tisfaction to us, than the not Enjoying it at all, ſince we cannot enjoy it
+always Hence we may gather what uncertain things all Worldly Enjoyments are, and how little there
+is here Below, that we can call our Own as alſo what Value to ſet upon things which we have no
+certain or laſting Right to, and how unbecoming it is to a Rational Being <hi>to con<g ref="char:EOLhyphen"/>tract an
+Eternal Paſſion,</hi> for what can endure but a mo<g ref="char:EOLhyphen"/>ment. Since he can't avoid being Miſerable
+that fixes
+<pb n="117" facs="tcp:170915:63"/> his Happineſs on what is not laſting: And it is plain, that ſince we
+are not to Live here always, that no preſent Enjoyment can be an Eſſen<g ref="char:EOLhyphen"/>tial Happineſs to
+us, which as ſoon as we have taſted, we are ſnatched from, or that from us.</p>
+            <p>Did we but conſider that the beſt of our outward En<g ref="char:EOLhyphen"/>joyments are not at the diſ<g ref="char:EOLhyphen"/>poſal of
+our own Wills, and that they are ſuch as we could promiſe our ſelves but a ſhort
+Poſſeſſion of, and that too very uncertain, it would abate our Care and Fond<g ref="char:EOLhyphen"/>neſs of
+them; It would teach us to make them ſo
+<pb n="118" facs="tcp:170915:64"/> far our Happpineſs, as not to be unhappy or miſerable at our being
+diſpoſſeſt of them. This would leſſen our <hi>Fears,</hi> encreaſe our
+<hi>Cow<g ref="char:EOLhyphen"/>rage,</hi> and put us upon the Practice of thoſe Vertues which we have moſt need of,
+and in which we are ge<g ref="char:EOLhyphen"/>nerally moſt defective, <hi>Pa<g ref="char:EOLhyphen"/>tience</hi> and <hi>Contentment</hi> of
+<hi>Mind.</hi>
+            </p>
+            <p>But this like all other Duties of <hi>Religion,</hi> is not a Work to be done on a ſud<g ref="char:EOLhyphen"/>den,
+but requires great pre<g ref="char:EOLhyphen"/>paration and fixedneſs of Mind, ſtrict Attention of Thought, conſtant
+Reflecti<g ref="char:EOLhyphen"/>ons on Humane Nature, and
+<pb n="119" facs="tcp:170915:64"/> daily Obſervations on the uncertainty and inſtability of Things. And it
+is better done before we are exerciſed with Afflictions, than defer<g ref="char:EOLhyphen"/>red till we come to the
+Try<g ref="char:EOLhyphen"/>al. This will look like a <hi>Ne<g ref="char:EOLhyphen"/>ceſſity,</hi> the other a <hi>Vertue.</hi> Beſides, that
+will be a very unfit time for us to begin ſo neceſſary a Duty. It is like delaying Repentance
+to the laſt <hi>Hour,</hi> when the ſenſe of our Guilt, and the miſery of our Condition,
+not the love of Vertue or Religion, makes us cry out for <hi>Mercy,</hi> though it can give us but
+ſmall hopes of <hi>Pardon.</hi>
+            </p>
+            <p>
+               <pb n="120" facs="tcp:170915:65"/>The Diſtempers of the Mind, as thoſe of the Body are better prevented than
+cur'd. As Temperance is the beſt Phyſick, and preſerva<g ref="char:EOLhyphen"/>tive of the Body; ſo a calm and
+ſerene Temper of the Mind, a moderation to<g ref="char:EOLhyphen"/>wards all external Things, keeps us even and free from
+Prejudice, and gives us lei<g ref="char:EOLhyphen"/>ſure to judge rightly of the Nature of them, whereby we are able to
+make our ſelves eaſy under every Ac<g ref="char:EOLhyphen"/>cident that may happen, and amidſt all the Varieties of
+Fortune, which may either flatter us on the one Hand, or threaten us on the Other.</p>
+            <p>
+               <pb n="121" facs="tcp:170915:65" rendition="simple:additions"/>'Tis our falſe Opinions of Things that plunge us into moſt of our
+Troubles and Diſorders; if we have Pru<g ref="char:EOLhyphen"/>dence enough to rectify theſe, and ſettle our
+Judg<g ref="char:EOLhyphen"/>ments as well as Deſires, up<g ref="char:EOLhyphen"/>on what is truly Good, we ſhall be ſo well prepar'd
+a<g ref="char:EOLhyphen"/>gainſt all Events, and ſo well fortified againſt all the Miſeries and Calamities of Life,
+that they will never be able either to diſturb our Peace, or diſpoſſeſs our Reaſon.</p>
+            <p>But we ſhall find this fur<g ref="char:EOLhyphen"/>ther Advantage by conſider<g ref="char:EOLhyphen"/>ing the Inſufficiency of all things
+here for our Happi<g ref="char:EOLhyphen"/>neſs,
+<pb n="122" facs="tcp:170915:66"/> that it will neceſſarily lead us to that which is a<g ref="char:EOLhyphen"/>lone ſufficient for
+it: If we find Imperfections in our ſelves, we muſt conclude that there is ſomething
+Per<g ref="char:EOLhyphen"/>fect; becauſe a Sence of the Firſt neceſſarily infers a Be<g ref="char:EOLhyphen"/>lief of the Latter. For we
+can't know that we want any thing, but by compa<g ref="char:EOLhyphen"/>ring our ſelves with that which has whatſoever
+we are defective in; and this by a neceſſary Train of Conſe<g ref="char:EOLhyphen"/>quences directs us to Him, who is
+Perfection it ſelf, and out of whoſe immenſe and inexhauſted Treaſure, all our Wants and
+Neceſſities
+<pb n="123" facs="tcp:170915:66"/> can alone be ſupplied.</p>
+            <p>But again, if we form in our Minds certain and firm <hi>Judgments</hi> of Things, ac<g ref="char:EOLhyphen"/>cording to
+the eſſential Good or Evil of them, we ſhall direct all the Actions of Life according to
+them. By this means we ſhall keep our Minds peaceable and temperate, and prevent the diſorders
+of our Paſſions and <hi>Affections;</hi> whatever it is that we love or hate, we ſhall
+preſently conſider the Rea<g ref="char:EOLhyphen"/>ſons that engage our Affecti<g ref="char:EOLhyphen"/>ons to it. If we find that 'tis
+Mortal and Uncertain, we ſhall fix our Minds upon it, as a thing we know we
+<pb n="124" facs="tcp:170915:67"/> can enjoy but a ſhort time; and therefore if we ſhould be depriv'd of it,
+it will be no more than what we were always in expectation of, and what we were prepar'd for. If we
+are reduc'd to Poverty, our Condition of Mind will be ſtill the ſame. We know that <hi>Riches
+make themſelves Wings and fly a<g ref="char:EOLhyphen"/>way:</hi> And therefore as the Great Emperour <hi>Antoninus</hi>
+obſerves of <hi>Socrates;</hi> We <hi>Shall know how to want and enjoy thoſe things, in the
+want whereof other Men,</hi> ſuch as the unſetled and unthinking <hi>ſhew themſelves Weak,
+as well as Intemperate in the Fruition.</hi>
+            </p>
+            <p>
+               <pb n="125" facs="tcp:170915:67"/>Until I have fixt in my Mind ſome <hi>Principle</hi> to act by, I ſhall
+only live at Ran<g ref="char:EOLhyphen"/>dom, fruſtrated by a Thou<g ref="char:EOLhyphen"/>ſand Uncertainties, always at a loſs in my
+Expectations, deluded with Shadows, loſt in Errors, Uncertain either what to <hi>hope</hi> for,
+or what to <hi>fear,</hi> yet continually diſtra<g ref="char:EOLhyphen"/>cted and hurried on by the Extreams of
+<hi>Both.</hi> My Acti<g ref="char:EOLhyphen"/>ons will never be directed to any wiſe or prudent <hi>End;</hi> and if
+Good reſults from them, it muſt be imputed to Time and Chance, and not to the Rules and Conduct
+of <hi>Prudence.</hi> There can be no Vertue, unleſs our Actions
+<pb n="126" facs="tcp:170915:68"/> proceed from <hi>Choice</hi> and <hi>De<g ref="char:EOLhyphen"/>liberation.</hi> I may give all my
+<hi>Goods to Feed the Poor,</hi> but unleſs I give them with a Religious Deſign, out of a pure
+Principle of ſatisfying their Neceſſities, and doing Good by it, I can't call it
+<hi>Charity:</hi> For if I am natu<g ref="char:EOLhyphen"/>rally Pitiful and Compaſſio<g ref="char:EOLhyphen"/>nate, I may give to gratify my
+Inclinations, without thinking or propoſing any other End by it, and then it is not ſo properly
+<hi>Charity,</hi> as <hi>Good-nature</hi> in me.</p>
+            <p>In ſhort, Our chief Buſi<g ref="char:EOLhyphen"/>neſs is to form in our ſelves true and certain Notions of
+Happineſs and Tranquillity
+<pb n="127" facs="tcp:170915:68"/> of Mind, what way it is that leads to them, and then to determine our
+ſelves to the Attainment of them. We are firſt to know, and then to practice; and tho' both our
+Knowledge and Ac<g ref="char:EOLhyphen"/>quiſition of Happineſs here, are but very imperfect, com<g ref="char:EOLhyphen"/>pared with that which
+will hereafter be revealed to us, yet they will be ſufficient to diſperſe all our
+<hi>Griefs,</hi> to arm us againſt Afflictions, and prevent our ſinking un<g ref="char:EOLhyphen"/>der the Weight of
+them.</p>
+            <p>To propoſe the quiet and ſerenity of our Minds, as the end of all our Actions, is to make a
+great Progreſs
+<pb n="128" facs="tcp:170915:69"/> in our way to Happineſs: And will give us ſure Hopes of reſiſting all
+Temptations that may hinder us, or give us any ſtop in our Search af<g ref="char:EOLhyphen"/>ter it: And to this
+purpoſe we ought frequently to make a ſtrict Enquiry into our Condition, whether we are in the
+direct way that leads to it: And then it will be neceſſary to take ſo far a view of our
+ſelves, as to ex<g ref="char:EOLhyphen"/>amine, whether we are not under any miſtakes, either in our Notions, or in the
+purſuit of them. For a mi<g ref="char:EOLhyphen"/>ſtake or ignorance in either, will one time or other una<g ref="char:EOLhyphen"/>voidably
+make us Unhappy.</p>
+            <p>
+               <pb n="129" facs="tcp:170915:69"/>And here it may be ex<g ref="char:EOLhyphen"/>pected, that I ſhould ſhew wherein conſiſts that
+<hi>Peace</hi> and <hi>Tranquillity</hi> of <hi>Mind,</hi> that we may be neither deceiv'd in our
+Notions about it, nor miſcarry in our Endeavours after it.</p>
+            <p>To obviate all Objections, that may ariſe from hence, it may be ſufficient to an<g ref="char:EOLhyphen"/>ſwer in
+general. That <hi>Peace</hi> and <hi>Satisfaction of Mind</hi> de<g ref="char:EOLhyphen"/>pends not upon any of the
+external Enjoyments of Life for its Happineſs; nor is it liable to be depriv'd of it, by any
+Accidents or Misfor<g ref="char:EOLhyphen"/>tunes. Its Happineſs is with<g ref="char:EOLhyphen"/>in its ſelf, and whatſoever
+<pb n="130" facs="tcp:170915:70"/> happens from without can neither really add to it, nor detract from it; its
+neither ſollicitous nor careleſs about the things of Senſe; 'tis mo<g ref="char:EOLhyphen"/>derate in its Deſires,
+neither tormented with Fears, nor impatient in its Hopes, nei<g ref="char:EOLhyphen"/>ther anxious about Life, nor afraid
+of Death. Its Actions are always one and the ſame; and the Great mea<g ref="char:EOLhyphen"/>ſure of them is
+<hi>Conſcience,</hi> as it is rightly inform'd by the Precepts of true Religion. In a word, Peace
+of <hi>Mind</hi> is that, which prudently and chearfully performs what<g ref="char:EOLhyphen"/>ever <hi>God</hi> commands,
+and pa<g ref="char:EOLhyphen"/>tiently bears whatever Pun<g ref="char:EOLhyphen"/>iſhments
+<pb n="131" facs="tcp:170915:70"/> he inflicts. And has alſo this great Perfection to perſwade our Search
+after it, that when we can once Attain it, 'tis our Own for Ever.</p>
+            <p>And this leads me to con<g ref="char:EOLhyphen"/>ſider in the next place, what are the moſt proper Methods we can
+make uſe of, to ob<g ref="char:EOLhyphen"/>tain this <hi>Peace and Calmneſs of Mind,</hi> which may ſup<g ref="char:EOLhyphen"/>port and
+comfort us under all <hi>Afflictions.</hi>
+            </p>
+            <p>And this is what I ob<g ref="char:EOLhyphen"/>ſerved in the Second place, the <hi>fixing in our Minds a true Sence of
+Religion,</hi> joined with a ſincere Endeavour of liv<g ref="char:EOLhyphen"/>ing up to all the Precepts of
+<pb n="132" facs="tcp:170915:71"/> it. The main Deſign of <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> is, to enlarge our
+Un<g ref="char:EOLhyphen"/>derſtandings, to rectify our Wills, to ſubdue our Luſts and irregular Paſſions, and to
+wean our Thoughts from this World, by propoſing the <hi>Eternal</hi> Happineſs of the Next:
+that is, It teaches us <hi>to walk by Faith and not by Senſe:</hi> To forego all theſe ſhort
+and imperfect Plea<g ref="char:EOLhyphen"/>ſures, for thoſe perfect and endleſs Joys, which all they ſhall have a
+full Poſſeſſion of, <hi>who by patient Continuance in Well-doing ſeek for Glory, Honour
+and Immortality.</hi> It endeavours to work upon our Underſtanding, by con<g ref="char:EOLhyphen"/>vincing
+<pb n="133" facs="tcp:170915:71"/> us, of the Unreaſon<g ref="char:EOLhyphen"/>ableneſs of being too much concern'd at any thing
+that may befall us here, ſince theſe <hi>Afflictions which are but for a Moment,</hi> if we
+make a good uſe of them, <hi>will work out for us a far more exceeding and Eternal Weight of
+Glory.</hi> It ſhows us, that what we here call Felicity, is not a<g ref="char:EOLhyphen"/>ble to ſatisfy us, and
+there<g ref="char:EOLhyphen"/>fore perſwades and invites us to ſet our Affections upon that immenſe and
+everlaſt<g ref="char:EOLhyphen"/>ing Good, where we ſhall have nothing more to deſire than what we enjoy; or no<g ref="char:EOLhyphen"/>thing
+to add to our Happi<g ref="char:EOLhyphen"/>neſs, becauſe it will be per<g ref="char:EOLhyphen"/>fect.</p>
+            <p>
+               <pb n="134" facs="tcp:170915:72"/>For true Happineſs is that, which when we are once poſſeſt of, there
+can be nothing left us to Deſire, be<g ref="char:EOLhyphen"/>cauſe that alone is able to ſatisfy us: For He that
+de<g ref="char:EOLhyphen"/>ſires any thing above all O<g ref="char:EOLhyphen"/>thers, will make all other things ſubordinate to this His chief
+Happineſs; and if he can be ſecure in his En<g ref="char:EOLhyphen"/>joyment of that, whatever may befal him, 'tis
+impoſſi<g ref="char:EOLhyphen"/>ble he ſhould be miſerable. If we could therefore make <hi>God</hi> our chief
+Happineſs, and reſolve our Actions into a Conformity to His Will, we may be ſaid to be
+properly as Happy, as this State can
+<pb n="135" facs="tcp:170915:72"/> be capable of: And though hereafter we ſhall receive large Additions to it,
+yet it will be the ſame Happineſs, continued to us in a more full Enjoyment of the chief Good,
+which could not ſo clearly manifeſt it ſelf to us under this Veil of Fleſh, which in a
+great meaſure intercepts that glorious Ap<g ref="char:EOLhyphen"/>pearance.</p>
+            <p>But beſides, <hi>Religion</hi> is not only our greateſt Com<g ref="char:EOLhyphen"/>fort and Support under
+<hi>Af<g ref="char:EOLhyphen"/>flictions,</hi> by laying before us the Rewards of the next Life, but alſo the Happineſs
+of this; it hath the <hi>Promiſe of this Life, as well as that
+<pb n="136" facs="tcp:170915:73"/> which is to come.</hi> Whatever<g ref="char:punc">▪</g> State we are in, it gives us Peace and
+Eaſe under it; it makes every Condition hap<g ref="char:EOLhyphen"/>py, becauſe it brings <hi>Pa<g ref="char:EOLhyphen"/>tience</hi> and
+<hi>Contentment</hi> along with it: It makes us Enjoy that we have, and keeps us from Craving what
+we have not; in a word, <hi>Godlineſs with Contentment is great gain.</hi>
+            </p>
+            <p>How much better is it for us, had we no Proſpect of another Life, to live at Eaſe and free
+from Troubles in this, than to be continually vexing and tormenting our ſelves at every croſs
+<hi>Acci<g ref="char:EOLhyphen"/>dent</hi> that may befall us, and make our Condition, <hi>miſe<g ref="char:EOLhyphen"/>rable</hi>
+               <pb n="137" facs="tcp:170915:73"/> enough in it ſelf, ſtill more miſerable, by an Ad<g ref="char:EOLhyphen"/>dition of new and
+unne<g ref="char:EOLhyphen"/>ceſſary <hi>Sorrows</hi> and <hi>Troubles.</hi> The Beſt of the Heathens, though they
+had very un<g ref="char:EOLhyphen"/>certain and obſcure Notions of another <hi>Life,</hi> and were ignorant of the
+Rewards, propoſed to the Obſervance of <hi>God's Commandments,</hi> yet in their Writings
+forbid the indulging our <hi>Sorrows,</hi> upon a Principle of Peace and Quiet in this Life, and
+from the Incongruity they found in them to the Actions of right Reaſon, and to that <hi>Order,
+Grace</hi> and <hi>Conſtancy,</hi> that <hi>Greatneſs</hi> and <hi>Majeſty,</hi>
+               <pb n="138" facs="tcp:170915:74"/> which ought to be obſerved in the exact Practice of <hi>Ver<g ref="char:EOLhyphen"/>tue.</hi> How
+much more ought we, who have larger De<g ref="char:EOLhyphen"/>grees of Knowledge, and more ſublime Rules to guide our
+Lives by, to be conſtant and watchful in the Duties of that Religion, in the keep<g ref="char:EOLhyphen"/>ing of which
+<hi>there is great Reward:</hi> In this World, true Peace and Tranquillity of Mind, and in <hi>the
+World to come Eternal Life.</hi>
+            </p>
+            <p>But of all the great Bran<g ref="char:EOLhyphen"/>ches of <hi>Religion,</hi> there is none more neceſſary, for the
+governing of our Lives, and the ſupporting our weak Nature under all <hi>Afflictions,</hi>
+               <pb n="139" facs="tcp:170915:74"/> than theſe Two: Firſt, <hi>The belief and acknowledgment of a
+Providence;</hi> And Secondly, <hi>The Immortality of the Soul.</hi>
+            </p>
+            <p>As to the Firſt, The Belief of a <hi>Providence</hi> is the main Foundation of all Religion:
+And is not only the greateſt Encouragement, to a Holy Life, but is alſo the true Source and
+Principle of all our Happineſs and Comfort in this World. That this U<g ref="char:EOLhyphen"/>niverſe is governed by
+Al<g ref="char:EOLhyphen"/>mighty Wiſdom and Power, that all things here are un<g ref="char:EOLhyphen"/>der the eſpecial Care of in<g ref="char:EOLhyphen"/>finite
+Goodneſs and Mercy, that they are at the imme<g ref="char:EOLhyphen"/>diate Diſpoſal and Order of
+<pb n="140" facs="tcp:170915:75"/> an Omnipotent Being, and that Chance and Fortune have no management of any of
+our Affairs, is the great<g ref="char:EOLhyphen"/>eſt Bleſſing and Happineſs of Mankind. What an un<g ref="char:EOLhyphen"/>ſpeakable
+Satisfaction muſt it be to the Minds of Good Men, to think that <hi>Provi<g ref="char:EOLhyphen"/>dence</hi> is alway
+watching o<g ref="char:EOLhyphen"/>ver them, and that the Ma<g ref="char:EOLhyphen"/>lice of the moſt. Wicked Men, can never do them the leaſt
+Injury, without God's order or permiſſion. It is a noble Saying of the Great Heathen Emperor,
+<hi>M. Au<g ref="char:EOLhyphen"/>relius, That if there were no GOD to take Care of Humane Affairs, He would not deſire
+to
+<pb n="141" facs="tcp:170915:75"/> Live any longer in the World.</hi> All the Enjoyments of this World would be
+very un<g ref="char:EOLhyphen"/>pleaſant, as well as uncer<g ref="char:EOLhyphen"/>tain, if that Harmony which is now obſerv'd in all the
+Divine Acts of Providence, were chang'd into Confuſi<g ref="char:EOLhyphen"/>on, and Man, now the moſt exalted of all
+ſublunary Be<g ref="char:EOLhyphen"/>ings, would become the moſt helpleſs and unhappy of all the Creatures.</p>
+            <p>Troubles and Calamities are unavoidable, and there<g ref="char:EOLhyphen"/>fore we muſt expect them. For <hi>Man is
+born to Trouble as the Sparks fly upward;</hi> and therefore it is neceſſary that we ſhould
+ſeek out for ſome Support under them, and de<g ref="char:EOLhyphen"/>pend
+<pb n="142" facs="tcp:170915:76"/> upon ſomething, that may be at all times a Com<g ref="char:EOLhyphen"/>fort to us. Now Comfort is
+nothing elſe, but the re<g ref="char:EOLhyphen"/>pelling an <hi>Evil</hi> that diſturbs us, by the Help and Media<g ref="char:EOLhyphen"/>tion
+of what we account a <hi>Good.</hi> And the greater the Evil is that oppreſſes us, ſo is it
+neceſſary that the Good we depend upon for Relief, ſhould be able to deliver us from it. But
+that nothing is able to do this but the <hi>Chief Good,</hi> is evident becauſe no<g ref="char:EOLhyphen"/>thing
+beſides is ſufficient for our Happineſs: Therefore it appears that it is GOD a<g ref="char:EOLhyphen"/>lone that we
+ought to de<g ref="char:EOLhyphen"/>pend upon for Succour in all
+<pb n="143" facs="tcp:170915:76"/> our Adverſities, who both <hi>can and will deliver us,</hi> and be our
+Conſolation and Sup<g ref="char:EOLhyphen"/>port, amidſt all the Adverſi<g ref="char:EOLhyphen"/>ties of Life, and the Terrors and Pangs of
+Death. We are His Creatures, whom He made, not ſo much to ſhew His Power, as His Goodneſs;
+and whom He form'd out of the Duſt on<g ref="char:EOLhyphen"/>ly to advance to Happi<g ref="char:EOLhyphen"/>neſs. Every Day's Experi<g ref="char:EOLhyphen"/>ence
+gives us freſh aſſurance of His conſtant Preſervation of us, is only to give us larger
+Op<g ref="char:EOLhyphen"/>portunities of qualifying our ſelves for a more Glorious State: He is always wait<g ref="char:EOLhyphen"/>ing
+<pb n="144" facs="tcp:170915:77"/> to be Gracious, and all that He requires of us is, that we ſhould believe
+His Promiſes, and ſhew our Re<g ref="char:EOLhyphen"/>liance upon them, by a chearful Obedience to all His Commands, a
+pious Reſignation to His Will, and a certain Expectation of a happy Iſſue out of all our
+Afflictions, through an entire Dependance on His Goodneſs.</p>
+            <p>For ſince the conſtant and wiſe Order of Nature gives us undeniable Proofs of a
+<hi>Providence,</hi> and every Day's Experience teaches us, that our Preſervation, as well as our
+firſt Being, is wholly
+<pb n="145" facs="tcp:170915:77"/> owing to its All-wiſe Good<g ref="char:EOLhyphen"/>neſs and Bounty, with what chearful
+Reſignation and Submiſſion of our ſelves, and all that we have any Rela<g ref="char:EOLhyphen"/>tion to, ought we
+to acknow<g ref="char:EOLhyphen"/>ledge its Right and Sove<g ref="char:EOLhyphen"/>reignty over us; and com<g ref="char:EOLhyphen"/>mit our ſelves to Him, <hi>who careth
+for us. For in Him, we live, move, and have our Being.</hi>
+            </p>
+            <p>As it <hi>is He that made us, and not we our ſelves,</hi> ſo do all the Mercies and
+Bleſſings we enjoy, proceed from Him. But theſe generally ſlide away unregarded, be<g ref="char:EOLhyphen"/>cauſe
+common to us. But when Afflictions or Miſe<g ref="char:EOLhyphen"/>ries
+<pb n="146" facs="tcp:170915:78"/> overtake us, we are apt either to call His Being or His Juſtice in
+queſtion. We claim the Firſt as our due; and complain when we are oppreſt with Evil, that His
+<hi>Ways are <g ref="char:V">Ʋ</g>nequal.</hi>
+            </p>
+            <p>Did we always think it our indiſpenſable Duty, to have a ſpecial Regard to <hi>GOD</hi>
+and <hi>Providence</hi> in all our Actions, to conſult what we find moſt agreeable to His Will,
+and always mea<g ref="char:EOLhyphen"/>ſure our Actions by it: we ſhould find Him a <hi>GOD at Hand</hi> to us in all
+Conditions, and our beſt Support under all Adverſities. We ſhould then be always mindful,
+that
+<pb n="147" facs="tcp:170915:78"/> whatſoever we enjoy is not properly our Own, but only lent us for a time.
+And that the ſame Hand, that be<g ref="char:EOLhyphen"/>ſtowed all our Good things upon us, may withdraw them from us,
+when he thinks convenient, without doing us the leaſt Injury That they were granted us upon
+Conditions, and not to continue Ours for ever. And that if we ſet too high a Value upon them, and
+for<g ref="char:EOLhyphen"/>get Him that gave them, we only take a Method, that will ſome time or other aſſuredly
+make us Miſera<g ref="char:EOLhyphen"/>ble. For we are never in greater danger of being de<g ref="char:EOLhyphen"/>priv'd
+<pb n="148" facs="tcp:170915:79"/> of any Earthly Enjoy<g ref="char:EOLhyphen"/>ment, than when we are too fond of it, and ſet our
+Hearts ſo much upon it, as to make it our Chief, if not only, Happineſs.</p>
+            <p>For when the Affections are depraved by Senſual En<g ref="char:EOLhyphen"/>joyments, there is a neceſſity of
+meeting with Croſſes and Troubles, that the Miſeries and Diſappointments that befall us in
+the very ſame Inſtances, may correct and chaſtiſe us for the Exceſs of Pleaſure we
+formerly took in them. And this Method Providence often makes uſe of, as very neceſſary to
+con<g ref="char:EOLhyphen"/>vince us of our Errors in
+<pb n="149" facs="tcp:170915:79"/> over-valuing the Objects of a miſguided Paſſion.</p>
+            <p>If I am convinc'd that GOD Governs the World, and that he has a Right and Sovereignty over all
+His Creatures, and may order and diſpoſe of them, as He thinks beſt, to anſwer the Great
+and Wiſe Ends of His <hi>Providence,</hi> it is my Duty patiently to ſubmit to His Appointment,
+without que<g ref="char:EOLhyphen"/>ſtioning either His Wiſdom or Juſtice. For an Humble ſubmiſſion to all the
+Me<g ref="char:EOLhyphen"/>thods of Providence, is a di<g ref="char:EOLhyphen"/>rect Inference from the Be<g ref="char:EOLhyphen"/>lief of it. And to repine at any of its
+Diſpenſations is
+<pb n="150" facs="tcp:170915:80"/> either to queſtion the Prin<g ref="char:EOLhyphen"/>ciples of Religion, or the Care of Providence
+over us. We came into this World not to Command, but to Obey. And have theſe Bounds ſet us, as
+well to be the guide of our Actions, as the ſubject of our Petitions, <hi>Not Our Will, but His
+be done.</hi>
+            </p>
+            <p>But beſides, how much better is it for us, chearfully and ſubmiſſively to reſign our
+ſelves to all the Appoint<g ref="char:EOLhyphen"/>ments of Providence, than to do it by force or compul<g ref="char:EOLhyphen"/>ſion. Obey we
+muſt, whe<g ref="char:EOLhyphen"/>ther we are willing or no. There is no <hi>Contending with God;</hi> For who can ſay
+unto
+<pb n="151" facs="tcp:170915:80"/> Him, <hi>What doeſt Thou?</hi> If He ſpeaks the word, we are Conſumed;
+<hi>If He taketh a<g ref="char:EOLhyphen"/>way our Breath, we die, and are turned again to our Duſt.</hi>
+            </p>
+            <p>But another great Con<g ref="char:EOLhyphen"/>ſideration to perſwade us to a willing and chearful Sub<g ref="char:EOLhyphen"/>miſſion to
+all the Appoint<g ref="char:EOLhyphen"/>ments of God's Providence is, that whatſoever Trou<g ref="char:EOLhyphen"/>bles or Afflictions He lays
+upon us; they are deſigned for our Good. He that is All Goodneſs Himſelf, does nothing but
+what tends to promote that Great End. He is a Tender and Merci<g ref="char:EOLhyphen"/>ful Father as well as a juſt
+Judge; and all the healing
+<pb n="150" facs="tcp:170915:81"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="151" facs="tcp:170915:81"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="152" facs="tcp:170915:82"/> Methods of God's Provi<g ref="char:EOLhyphen"/>dence are directed to no o<g ref="char:EOLhyphen"/>ther purpoſe, than to
+re<g ref="char:EOLhyphen"/>ſtore the Soul to its primi<g ref="char:EOLhyphen"/>tive Purity, and to invite us to Obedience, and per<g ref="char:EOLhyphen"/>ſwade us to
+lay hold of his Mercy and Loving-kind<g ref="char:EOLhyphen"/>neſs, that we may eſcape the ſevere Effects of his
+Juſtice. All the means that He makes uſe of by His Providence, are for our Be<g ref="char:EOLhyphen"/>nefit, though the
+manner of His diſpenſing of them may be different: ſometimes he invites us with Promiſes,
+and if thoſe can't awaken us, then he purſues us with Threatnings; ſometimes he
+<pb n="153" facs="tcp:170915:82"/> afflicts us, that our Vertues may be confirm'd by the Uſe and Exerciſe of
+Pati<g ref="char:EOLhyphen"/>ence: and at other times he lays heavy<g ref="char:punc">▪</g> Croſſes upon us, leaſt a too long Courſe
+of Fe<g ref="char:EOLhyphen"/>licity ſhould make us be<g ref="char:EOLhyphen"/>come Remiſs and Luxuri<g ref="char:EOLhyphen"/>ant. For did we make a right uſe of our
+Enjoyments, we ſhould never be terrified or dejected with Afflictions; they would be only as
+gen<g ref="char:EOLhyphen"/>tle Chaſtiſements, to incite and quicken our Diligence, but not abate our Courage, or
+ſtop us in our way<g ref="char:punc">▪</g> to Happineſs. But the caſe of moſt of us is far different, we
+forget <hi>GOD</hi> in our Pro<g ref="char:EOLhyphen"/>ſperity,
+<pb n="154" facs="tcp:170915:83"/> and in our Adverſity complain of him. Did we look back to the Cauſes of
+his Anger, and not only conſider the Effects of it, we ſhould ſee great Reaſon to
+acknowledge the Juſtice of his Providence, and that we alone <hi>have done Wickedly,</hi> and
+that all <hi>His Judgments are Righteous.</hi> For if we have not been ſufficiently Thankful for
+the Goodneſs of Providence to us, why ſhould we repine if it tries other Methods to reduce us
+to Obedience, and an acknowledgment of God's Sovereignty over us?</p>
+            <p>
+               <pb n="155" facs="tcp:170915:83"/>How can we ſay <hi>that God hath forgotten to be Gracious or that his Mercy
+is clean gone for ever;</hi> When our Sins are the only Cauſe of our Suffe<g ref="char:EOLhyphen"/>rings? All that he
+deſigns is to ſhew us, that 'tis our In<g ref="char:EOLhyphen"/>tereſt as well as Duty to re<g ref="char:EOLhyphen"/>member him in every
+Con<g ref="char:EOLhyphen"/>dition of our Lives: and that a Dependence upon him is the only Support under all Afflictions,
+and the beſt Comfort againſt all the Apprehenſions of Evil for the future. And that he is the
+only Security againſt all the dangers and miſchiefs to which the Frailties and Infirmities of
+our Nature
+<pb n="156" facs="tcp:170915:84"/> continually expoſe us.</p>
+            <p>What a Happineſs is it for us that we have an <hi>All<g ref="char:EOLhyphen"/>ſufficient God</hi> to take care of
+us, when nothing elſe can; to relieve us in our greateſt Straits and Exigencies, and to comfort
+us under our ſharpeſt Sufferings? And all this upon the eaſy Con<g ref="char:EOLhyphen"/>dition of our Dependence
+upon him for every thing that we want, and our Sub<g ref="char:EOLhyphen"/>miſſion to his Will in the va<g ref="char:EOLhyphen"/>rious
+Diſpenſations of his <hi>Providence,</hi> either in correct<g ref="char:EOLhyphen"/>ing us for the Sins we have
+Committed, or in puniſhing us for ſome Omiſſion of our Duty.</p>
+            <p>
+               <pb n="157" facs="tcp:170915:84"/>What is there then, that can ſhake the Conſtancy of our Mind, or diſturb
+the Peace and Tranquillity that will always attend it, if we have Almighty Goodneſs, Mercy, and
+Compaſſion, to be our Defence and Com<g ref="char:EOLhyphen"/>fort? If he takes away any of our Enjoyments, it is on<g ref="char:EOLhyphen"/>ly
+to endear Himſelf the more to us; and to ſhew us that he is conſtantly One and the ſame,
+Good and Gracious to us, able to ſatiſ<g ref="char:EOLhyphen"/>fy<g ref="char:punc">▪</g> all our Deſires, and to ſup<g ref="char:EOLhyphen"/>ply all our
+Wants: and how all things here are Frail and Uncertain, as well as very Imperfect, and altogether
+<pb n="158" facs="tcp:170915:85"/> unſatisfying, though they might be enjoy'd for ever. If he deprives us of
+our dear<g ref="char:EOLhyphen"/>eſt Friends and Relations; he does it with a deſign of being a Friend Himſelf to us;
+and that he may have the firſt Place in our Affecti<g ref="char:EOLhyphen"/>ons, who is always ready to aſſiſt and
+counſel us in all our Adverſities, and is as willing as he is able to do it.</p>
+            <p>But he is not only deſi<g ref="char:EOLhyphen"/>rous of helping us in all our Neceſſities, but is always preſent
+to us. And whenever we are preſſed with any ſudden and unexpected Ca<g ref="char:EOLhyphen"/>lamities, if we apply
+our
+<pb n="159" facs="tcp:170915:85"/> ſelves to him, we are cer<g ref="char:EOLhyphen"/>tain, either to have them re<g ref="char:EOLhyphen"/>mov'd from us, or be
+endued with ſufficient Strength to bear up againſt them. His Hand is never ſhortned, and
+though he may withdraw ſome of our Bleſſings from us, for ſome Ends beſt known to
+Himſelf, yet he is ſtill able to give us Greater. He has always innumerable Mercies in ſtore,
+his Good<g ref="char:EOLhyphen"/>neſs can never be exhauſted. And he is able to confer Bleſſings upon us, as far
+a<g ref="char:EOLhyphen"/>bove what we can conceive, as they are above what we can deſerve.</p>
+            <p>Were the Joys of the
+<pb n="160" facs="tcp:170915:86"/> next Life mean and incon<g ref="char:EOLhyphen"/>ſiderable, and not to be com<g ref="char:EOLhyphen"/>pared with thoſe
+this World affords us, there might be ſome appearance of Reaſon, for the placing our
+Affecti<g ref="char:EOLhyphen"/>ons upon the Delights and Entertainments of Senſe; and for the continually la<g ref="char:EOLhyphen"/>menting the
+loſs of thoſe, who have been taken from this to a far worſe State. But ſince they are
+ſuch, <hi>as Eye hath not ſeen, nor Ear heard, nor can it enter into the Heart of Man to
+conceive,</hi> we ought to engage our Thoughts there, and let no Worldly Intereſt withdraw our
+Minds from the delight<g ref="char:EOLhyphen"/>ful
+<pb n="161" facs="tcp:170915:86"/> Contemplations of that Glorious Fruition. For it is an undervaluing of
+thoſe Celeſtial Enjoyments, to ſuffer any Conſiderations or Diſappointments from with<g ref="char:EOLhyphen"/>out
+to alienate our Affecti<g ref="char:EOLhyphen"/>ons from them. Nor can we more depretiate the Glory of the other World,
+than by ſetting up any other Deſires in competition with it.</p>
+            <p>How ought we then to acquieſce in all the Acts of his <hi>Providence,</hi> and not to
+di<g ref="char:EOLhyphen"/>ſtruſt his Kindneſs and Good<g ref="char:EOLhyphen"/>neſs to us, but to endeavour to ſubmit in all things to
+his Will and Pleaſure, though his Proceedings are never ſo
+<pb n="162" facs="tcp:170915:87"/> directly contrary to the preſent Bent of our Af<g ref="char:EOLhyphen"/>fections. Though he takes
+from us thoſe we had the moſt tender and ſincere Af<g ref="char:EOLhyphen"/>fection for, and ſtrips us of all our
+Worldly Enjoyments, If <hi>His Will be done,</hi> why ſhould <hi>We</hi> be diſſatisfied? Our
+Crimes and Offences a<g ref="char:EOLhyphen"/>gainſt him, have certainly deſerved greater Puniſh<g ref="char:EOLhyphen"/>ments than thoſe
+he inflicts upon us. And we have rea<g ref="char:EOLhyphen"/>ſon not ſo much to complain of the ſeverity of our
+Suffer<g ref="char:EOLhyphen"/>ings, as to be thankful that they are no greater, and that they are far ſhort of what our
+Sins deſerve.</p>
+            <p>
+               <pb n="163" facs="tcp:170915:87"/>From all this it appears, that our Afflictions are de<g ref="char:EOLhyphen"/>ſigned by
+<hi>Providence</hi> to work for <hi>Good to us:</hi> And that if we take care to ſubmit our
+ſelves chearfully and pa<g ref="char:EOLhyphen"/>tiently to <hi>GOD</hi>'s Will and Pleaſure in every Condition of
+Life, He will not only ſupport and comfort us un<g ref="char:EOLhyphen"/>der all Afflictions, and give us Strength to
+bear them, be they never ſo heavy up<g ref="char:EOLhyphen"/>on us; but will alſo make them an occaſion of greater
+Good to us, by turning them to our Advantage, in order to promote our future <hi>Hap<g ref="char:EOLhyphen"/>pineſs,</hi>
+and quicken our En<g ref="char:EOLhyphen"/>deavours in the Search after it.</p>
+            <p>
+               <pb n="164" facs="tcp:170915:88"/>And this brings me to con<g ref="char:EOLhyphen"/>ſider in the next place, that other Branch of
+<hi>Religion,</hi> which I mentioned, as very neceſſary to the ſupporting us under all the
+Sufferings of this Life; <hi>The Immortality of the Soul.</hi>
+            </p>
+            <p>This is that Doctrine, that ſo much endears to us the Practice of Vertue, and per<g ref="char:EOLhyphen"/>ſwades us
+to forego all the Pleaſures of Senſe, and reſiſt all the Temptations which this World
+offers us, if they ſtand in Competition with the Precepts of Vertue. The Belief of this gives
+Life to all our Religious Endea<g ref="char:EOLhyphen"/>vours, encourages us to a
+<pb n="165" facs="tcp:170915:88"/> vigorous Proſecution of our Duty, and makes the Re<g ref="char:EOLhyphen"/>flection upon our paſt
+Life pleaſant and delightful to us. The certain Hopes and Expectations of another Life after
+this, invite us to ſuch an eager purſuit after it, that we ought to be little con<g ref="char:EOLhyphen"/>cern'd for
+any thing that may befal us here. What<g ref="char:EOLhyphen"/>ever Calamities may threat<g ref="char:EOLhyphen"/>en us in this World, they can
+only hurt the Body, we may keep the Soul free and un<g ref="char:EOLhyphen"/>toucht: That, after a little time, will be
+ſubject to Mor<g ref="char:EOLhyphen"/>tality, and crumble again into its Primitive Duſt; but This will Live for Ever,
+and
+<pb n="166" facs="tcp:170915:89"/> be Eternally Happy or Miſe<g ref="char:EOLhyphen"/>rable. Why ſhou'd we then be concern'd, at the
+Loſs of any of our <hi>Friends;</hi> For 'tis the Body only, the worſt Part of them, that's
+ſubject<g ref="char:EOLhyphen"/>ed to Mortality; the Soul's return'd to <hi>God that gave it.</hi> And though <hi>it</hi>
+is now ſepa<g ref="char:EOLhyphen"/>rated from us, yet after a Moment we ſhall meet a<g ref="char:EOLhyphen"/>gain. It is a great Comfort
+againſt the Loſs of Friends, that they are not quite taken from us When we have run out that
+ſhort, inconſider<g ref="char:EOLhyphen"/>able ſpace of time, that is between us and Eternity, we ſhall arrive
+together at the ſame Place, and be for
+<pb n="167" facs="tcp:170915:89"/> Ever inſeparably Happy.</p>
+            <p>What Reaſon have I then to repine at my being now ſeparated from them, whom after a very few
+days I ſhall ſee again. Why ſhould a ſhort Parting make the reſt of my Days uneaſy,
+which I ought to ſpend in the de<g ref="char:EOLhyphen"/>lightful Contemplation of thoſe Joys, which our next Meeting
+will give us a full and an everlaſting Poſſeſſion of? Could I confine my Hopes to the
+next Life, I ſhould be but little concern'd at what may happen to me in this. Should I loſe my
+Friends and Relations, One of the greateſt Supports and
+<pb n="168" facs="tcp:170915:90"/> Comforts of this Life, yet I ſhould be fortified againſt it. I know I
+muſt loſe Them, or they Me. What matters it who goes Firſt? We ſhall at length meet again,
+and participate together of thoſe boundleſs Pleaſures, which ſhall not end, till Eternity
+if ſelf ſhall ceaſe to be.</p>
+            <p>But beſides, we can't ſay, that they are haſtily ſnatcht from us, who by the
+Im<g ref="char:EOLhyphen"/>provements of their Minds in all the Excellencies of Knowledge, which they had alſo copied out
+in their Pra<g ref="char:EOLhyphen"/>ctice, had anſwer'd all the Ends and Deſigns of Living; and who, if we conſider
+<pb n="169" facs="tcp:170915:90"/> them in relation to them<g ref="char:EOLhyphen"/>ſelves, had liv'd here long enough; though for our
+own ſakes, and the Good of others, we could have wiſht them a much longer ſtay, more to
+ſerve our own, than, (which would be more generous) to conſult their Intereſt. For ſince we
+muſt Die at laſt, what does it ſig<g ref="char:EOLhyphen"/>nify, if we leave this World ſomething ſooner, than
+per<g ref="char:EOLhyphen"/>haps in the Courſe of Na<g ref="char:EOLhyphen"/>ture we might have done; nay rather, is it not much more preferable
+to be de<g ref="char:EOLhyphen"/>liver'd out of this trouble<g ref="char:EOLhyphen"/>ſome Paſſage to obtain an immortal Life?</p>
+            <p>
+               <pb n="170" facs="tcp:170915:91"/>How Happy then will that State be, wherein we can only be ſaid properly to
+live: For what we call Life here, ſays <hi>Tully,</hi> is <hi>only Death;</hi> nor does the Mind
+truly Live till releas'd from the Clogs and Fetters of the Body, it enjoys Eternity. We ought not
+therefore to think Death and Evil, but rather the greateſt of Bene<g ref="char:EOLhyphen"/>fits: Becauſe as it eaſes
+us of all thoſe Miſeries which Life brought upon us, ſo it gives us a perfect and ſerene
+Proſpect of Joy and Peace hereafter. If therefore we are born and live Miſerable, and die
+Bleſſed, who would
+<pb n="171" facs="tcp:170915:91"/> not rather chuſe to be made Happy by being diſunited from this Body, than
+to live under a conſtant Oppreſſion of Miſeries? We are all of us weary of Life, why
+ſhould we be afraid to Die? If Suf<g ref="char:EOLhyphen"/>ferings and Afflictions are uneaſy and burthenſome to us,
+why ſhould we be un wil<g ref="char:EOLhyphen"/>ling to welcome that, which is the beſt Remedy for them? And that it is
+deſign'd as a Token of <hi>God's</hi> Favour and Kindneſs to us, ſeems plain by His frequent
+calling a<g ref="char:EOLhyphen"/>way the Beſt ſooneſt from this to a better State, there<g ref="char:EOLhyphen"/>by to free them from all
+the Evils and Calamities which
+<pb n="172" facs="tcp:170915:92"/> this Life is liable to. And alſo to teach us that ſtay be<g ref="char:EOLhyphen"/>hind, to be
+neither too fond of this Life, nor afraid of Death, which Heaven has beſtowed as a Bleſſing
+upon thoſe, who were beſt pre<g ref="char:EOLhyphen"/>pared for it.</p>
+            <p>And this ſhews us that <hi>God</hi> is not only Juſt in ap<g ref="char:EOLhyphen"/>pointing Death to all Men; but
+that his Wiſdome and Goodneſs eminently appear in it, ſince it is ſo much for the Advantage
+of Man<g ref="char:EOLhyphen"/>kind, to exchange this Im<g ref="char:EOLhyphen"/>perfect and Troubleſome Condition, for that moſt Durable and
+Perfect, prepa<g ref="char:EOLhyphen"/>red for us in the Heavens.</p>
+            <p>
+               <pb n="173" facs="tcp:170915:92"/>Hence we may learn the vaſt Diſproportion between this Life and the other;
+For was not the next Life infi<g ref="char:EOLhyphen"/>nitely better than this, <hi>God</hi> would not ſo ſoon remove
+thoſe to that other State, who have uſed their beſt En<g ref="char:EOLhyphen"/>deavours to live in Confor<g ref="char:EOLhyphen"/>mity to all
+the Divine Pre<g ref="char:EOLhyphen"/>cepts in this.</p>
+            <p>From hence it appears if we have any love for <hi>Happi<g ref="char:EOLhyphen"/>neſs,</hi> how deſireable Death
+ought to be to us; and if we think it our Intereſt to deſire it as beſt for our ſelves, we
+ought to eſteem it as ſuch for our Friends too. For can we wiſh better to our ſelves,
+<pb n="174" facs="tcp:170915:93"/> than to thoſe we have the moſt tender affection for? Or would we have our
+ſelves only Happy and them <hi>Miſe<g ref="char:EOLhyphen"/>rable?</hi> Or are we diſpleas'd that they are
+bleſſed by Death, while we are incum<g ref="char:EOLhyphen"/>bred and troubled with Life? If we are not, what is it
+that makes us Impati<g ref="char:EOLhyphen"/>ent at their being deliver'd from all thoſe Dangers and Adverſities,
+thoſe Sorrows and Vexations, which they had here every moment ex<g ref="char:EOLhyphen"/>perience of.</p>
+            <p>If the Story which is told us of ſome of the Heathens weeping at the Birth of their Children,
+and rejoyce<g ref="char:EOLhyphen"/>ing
+<pb n="175" facs="tcp:170915:93"/> at their Death, as look<g ref="char:EOLhyphen"/>ing upon one the Beginning and the other the End of
+their Miſeries, may find any Credit with us, methinks it ſhould give us a far different Idea of
+Humane Nature, than we ſeem to have been yet acquainted with, or make us a ſham'd of our
+Pra<g ref="char:EOLhyphen"/>ctice in a Religion, which lays before us the greateſt Motives and Advantages to invite us to
+our Duty, and not only gives us the beſt Rules to direct us, but alſo encourages us with the
+moſt certain Promiſes, of far greater and more durable Rewards than any other Re<g ref="char:EOLhyphen"/>ligion
+<pb n="176" facs="tcp:170915:94"/> can pretend to. It is a great diſgrace and ſcan<g ref="char:EOLhyphen"/>dal to our
+Profeſſion, that notwithſtanding, we have greater Expectations, and larger Aſſiſtances
+in all our Neceſſities, yet to be out<g ref="char:EOLhyphen"/>done by <hi>Heathens</hi> in a prin<g ref="char:EOLhyphen"/>cipal Part of our
+Duty. They ſaw the defects of our Nature, and the certainty of our Miſeries, and though they
+could not ſearch into the hidden Cauſes of them, and know from whence to derive a Remedy for
+them, yet they were ſenſible to be expected in <hi>Death,</hi> than in the mean and imperfect
+Sa<g ref="char:EOLhyphen"/>tiſfaction
+<pb n="177" facs="tcp:170915:94"/> of <hi>Life.</hi> Of the one they had already ſuffi<g ref="char:EOLhyphen"/>cient Experience, and
+ſince they found in themſelves a natural Deſire after Happi<g ref="char:EOLhyphen"/>neſs, they concluded, that
+either that Deſire was im<g ref="char:EOLhyphen"/>planted in them in vain, or elſe it muſt be expected in the other
+Life. This at leaſt they were certain of, that this Life was a Burthen to them, and therefore
+thoſe were to be accounted moſt happy, who were ſooneſt releaſt from the Miſeries of
+it.</p>
+            <p>If Reaſon could go ſo far by its own Strength, what may not we expect from it,
+<pb n="178" facs="tcp:170915:95"/> when 'tis improved by the Advantages of <hi>Revelation;</hi> which not only
+leads us to the Cauſes and Original of our Miſeries, and ſhews us from whence they ſprung,
+but alſo teaches us how to ſubdue our inordinate Paſſi<g ref="char:EOLhyphen"/>ons, which ſtill foment them in
+us, by laying before us the great Helps and Aſſiſtan<g ref="char:EOLhyphen"/>ces we ſhall find, if we uſe our
+beſt Endeavours to over<g ref="char:EOLhyphen"/>come them; and that if we patiently ſubmit our ſelves to the Hand of
+<hi>Providence,</hi> it will order all things for our Good, and make even Death it ſelf, the
+beginning of an immortal Life to us, and
+<pb n="179" facs="tcp:170915:95"/> tranſlate us to thoſe happy Manſions, which we ſhall inhabit for ever
+with theſe whom we ſo Dearly E<g ref="char:EOLhyphen"/>ſteem'd, and who made even this troubleſome Life while here,
+almoſt pleaſant and de<g ref="char:EOLhyphen"/>ſireable to us. What Joy will it be to meet, embrace and converſe
+with, our Friends and Realtions, who will be then Ours for Ever! What great Motives have we then,
+patiently to bear our Trou<g ref="char:EOLhyphen"/>bles and Sufferings, conſider<g ref="char:EOLhyphen"/>ing the <hi>Recompence of the Re<g ref="char:EOLhyphen"/>ward
+hereafter!</hi>
+            </p>
+            <p>But ſome perhaps may ſay, they could bear with the Loſs of their Friends,
+<pb n="180" facs="tcp:170915:96"/> were they ſatisfied of their Happineſs in the Other World. To this we may
+an<g ref="char:EOLhyphen"/>ſwer, that it does not belong to us to ſearch into the <hi>Hid<g ref="char:EOLhyphen"/>den Counſels of God.</hi>
+We are taught to have <hi>Charity</hi> for all Men, and we ought not eſpecially to deny it to our
+Deareſt Friends. But beſides if they had all that Sweet<g ref="char:EOLhyphen"/>neſs of <hi>Temper,</hi> that
+<hi>Candour, Gentleneſs</hi> and <hi>Charity</hi> to<g ref="char:EOLhyphen"/>wards Others, which uſual<g ref="char:EOLhyphen"/>ly make Men
+reſpected and admired here, join'd with a true ſenſe of <hi>Religion,</hi> a juſt Demeanour
+to all the Truths and Promiſes of it, and a ſin<g ref="char:EOLhyphen"/>cere <hi>Obedience</hi> to its Laws
+<pb n="181" facs="tcp:170915:96"/> and Precepts, though mixt with the common Infirmi<g ref="char:EOLhyphen"/>ties of <hi>Mortality,</hi>
+we are in Duty oblig'd to think, that they enjoy the Benefits and Rewards annext to their ſincere
+and faithful Endea<g ref="char:EOLhyphen"/>vours. We may add to this, that thoſe earneſt Deſires which we find in our
+ſelves, of enjoying them longer here, ſeem to inſinuate and whiſper to us, that they,
+whoſe Converſations were ſo innocent and agreeable to us, and made ſo great a part of our
+Happineſs here, can never fall ſhort of that them<g ref="char:EOLhyphen"/>ſelves in another Life, which they always
+moſt paſſionate<g ref="char:EOLhyphen"/>ly
+<pb n="182" facs="tcp:170915:97"/> endeavour'd, tho' in an inferior Degree to promote in this.</p>
+            <p>What is there then left for us to Grieve at? Let us take an Eſtimate, not of our Loſs, but
+their Gain. And if we can't as yet be Happy, let us content our ſelves with thinking that they
+are ſo. Nor ought we ſo much to lament their being alrea<g ref="char:EOLhyphen"/>dy taken from us, as be thankful that
+we have en<g ref="char:EOLhyphen"/>joy'd them ſo long. And be<g ref="char:EOLhyphen"/>ſides, that as our Grief can de-out ſelves no
+kindneſs, ſo would it be very diſpleaſing to them, were they ſenſible of it; or could
+receive any
+<pb n="183" facs="tcp:170915:97"/> diminution in their <hi>Happi<g ref="char:EOLhyphen"/>neſs,</hi> by any thing that is done here
+below.</p>
+            <p>But beſides, tho' our <hi>Grief</hi> can be no Kindneſs or Sa<g ref="char:EOLhyphen"/>tisfaction to them, yet it is
+a great Diſ-kindneſs to our ſelves: For it does not only torment and diſquiet us, and make
+every thing of this Life unpleaſant and diſtaſt<g ref="char:EOLhyphen"/>ful to us; but alſo makes us unfit to
+regard our Concerns in order to the next. For our Thoughts are then ſo vehemently taken up-with
+our Loſs, and our Reaſon ſo totally obſcur'd by the Violence of our Paſſion, that we
+are neither at liberty to
+<pb n="184" facs="tcp:170915:98"/> recover the one, nor com<g ref="char:EOLhyphen"/>mand the other; whereby to become ſenſible of
+our Duty, and perform it accor<g ref="char:EOLhyphen"/>ding to that juſt Seriouſneſs and Attention that is requi<g ref="char:EOLhyphen"/>red
+of us. But moreover, Re<g ref="char:EOLhyphen"/>ligion requires great Chear<g ref="char:EOLhyphen"/>fulneſs and Alacrity in the performance of
+its Duties, we are and thereupon alſo, very much unqualified for the right Exerciſe of it,
+whilſt we ſuffer our ſelves to be carried away by a quite different diſpoſition of Mind.
+We ought therefore for our own Sakes ſo to moderate this almoſt ungovernable
+<hi>Paſſion,</hi> eſpecially if we let
+<pb n="185" facs="tcp:170915:98"/> it get ground upon us, that we may not fall ſhort of the due Obſervance
+of our Reli<g ref="char:EOLhyphen"/>gious Duties, by indulging our Paſſions and Affections. And certainly, 'tis one
+great Reaſon why, when the one is injoyned, the other is for<g ref="char:EOLhyphen"/>bidden, becauſe they can't both
+conſiſt together. For I can neither be ſo ſincerely Thankful for the protection of
+Providence over me for the time paſt, nor beg its Care for the future, if I am diſſatisfied
+at any of its Diſ<g ref="char:EOLhyphen"/>penſations, or am unwilling to ſubmit to any of its Cor<g ref="char:EOLhyphen"/>rections.</p>
+            <p>
+               <pb n="186" facs="tcp:170915:99"/>We ought therefore to en<g ref="char:EOLhyphen"/>deavour by all means poſſi<g ref="char:EOLhyphen"/>ble to ſubdae this
+Paſſion of <hi>Grief</hi> in us, by conſidering in the Third and laſt place, the dangerous
+Conſequences that will unavoidably follow our too much giving way to it.</p>
+            <p>It impairs our <hi>Health</hi> and <hi>Conſtitution,</hi> waſts our Strength, obſtructs
+the free motion of our Blood and Spi<g ref="char:EOLhyphen"/>rits, and exhauſts and im<g ref="char:EOLhyphen"/>poveriſhes the whole frame of
+our Nature. Nor is im<g ref="char:EOLhyphen"/>moderate Grief only preju<g ref="char:EOLhyphen"/>dicial to our Body, but the evil Effects of it
+penetrate even to the very Soul it ſelf.
+<pb n="187" facs="tcp:170915:99"/> For the Underſtanding be<g ref="char:EOLhyphen"/>comes darkned, and is not at liberty either to
+adviſe it ſelf, or hearken to the Coun<g ref="char:EOLhyphen"/>ſel of others. For it is ſo violently bent upon the
+Contemplation of an ap<g ref="char:EOLhyphen"/>pearing Miſery, that it can<g ref="char:EOLhyphen"/>not paſs a free and impartial Judgment upon
+it. And in this caſe alſo, the Will is ge<g ref="char:EOLhyphen"/>nerally ſo obſtinate, that it prevents the
+Operations and Exerciſe of <hi>Reaſon.</hi> And where the Will is prejudiced 'tis generally
+very difficult to rectify the Underſtand<g ref="char:EOLhyphen"/>ing. For whatſoever I will or chuſe as beſt for
+me, my Underſtanding is apt to find
+<pb n="188" facs="tcp:170915:100"/> ſome excuſe or pretence to comply with it. And when<g ref="char:EOLhyphen"/>ſoever the
+Underſtanding is thoroughly convinc'd of the agreeableneſs and innocence of any Action, and the
+ne<g ref="char:EOLhyphen"/>ceſſity of it, ſo long as it continues under that Con<g ref="char:EOLhyphen"/>viction, the Will can hard<g ref="char:EOLhyphen"/>ly
+reſiſts its Dictates. For whatſoever it is that my Underſtanding propoſes as beſt for
+me, and if I do real<g ref="char:EOLhyphen"/>ly believe it as ſuch, my Will can't help preferring the Choice of that
+before any thing beſides. And if the Action be really unlaw<g ref="char:EOLhyphen"/>ful, 'tis as well the Fault of my
+Underſtanding as Will,
+<pb n="189" facs="tcp:170915:100"/> becauſe every Action that I do has a preſent appearance of Good to
+perſwade me to it: which if it prove to be otherwiſe, the Underſtand<g ref="char:EOLhyphen"/>ing as well as the Will
+is to anſwer for it.</p>
+            <p>Immoderate <hi>Grief</hi> is alſo prejudicial to our Reaſon, by being a Blemiſh and
+Re<g ref="char:EOLhyphen"/>proach to it. What advan<g ref="char:EOLhyphen"/>tage would it be to us, to ſearch into the ſecrets of Nature, to
+know the Quali<g ref="char:EOLhyphen"/>ties and Eſſences of Things, to contemplate on the Per<g ref="char:EOLhyphen"/>fections of the
+Celeſtial Be<g ref="char:EOLhyphen"/>ings, and look even into <hi>Eternity</hi> it ſelf: To know what our Soul is, and
+how
+<pb n="190" facs="tcp:170915:101"/> it is endued with Reaſon, the <hi>Image of God Himſelf;</hi> to
+diſtinguiſh Good and E<g ref="char:EOLhyphen"/>vil, and to know that the One is to be avoided, und the Other to be
+embraced, and to enjoy innumerable other good Things, which Rational Beings are alone capable of;
+if after all, we cannot make uſe of our Knowledge, and noble En<g ref="char:EOLhyphen"/>dowments, to the
+ſup<g ref="char:EOLhyphen"/>preſſing the Miſeries of Life, and to the raiſing our ſelves above any of the
+Dangers which threaten us in this mortal State? I mean the acquiring ſuch a Superiority and
+Greatneſs of Mind, as
+<pb n="191" facs="tcp:170915:101"/> will keep us from falling under the <hi>Preſſures</hi> of our
+Sufferings, tho' it exempt us not from the ſenſe of them. What is it that gives us the the
+Advantage over the Beaſts and Irrational Beings, if we depend wholly upon things without us, and
+have neither Courage or Conſtan<g ref="char:EOLhyphen"/>cy within to ſupport us? All our Gifts and Faculties would be
+in vain beſtowed upon us, if they could not exalt us above the Evils and Incoveniencies of
+Senſe, If we can find Antidotes a<g ref="char:EOLhyphen"/>gainſt Poyſon, if we can make uſe of Induſtry to keep
+us from Poverty, and if Rea<g ref="char:EOLhyphen"/>ſon
+<pb n="192" facs="tcp:170915:102"/> can ſupply us with Pre<g ref="char:EOLhyphen"/>ſervatives againſt a great many other Evils,
+why ſhould we baniſh the Uſe of it, when we have moſt occa<g ref="char:EOLhyphen"/>ſion for it, either to
+counſel or adviſe us againſt appa<g ref="char:EOLhyphen"/>rent Calamities, or to ſup<g ref="char:EOLhyphen"/>port us under the preſent
+Anguiſh of our <hi>Griefs</hi> and <hi>Afflictions?</hi>
+            </p>
+            <p>But in the next place, Immoderate Grief is of a ve<g ref="char:EOLhyphen"/>ry dangerous Conſequence, as it is
+<hi>prejudicial to Religion.</hi> For it not only ſlackens our Endeavours, and puts a ſtop to
+our Practice of Vertue and Piety, by taking the firſt and greateſt poſſeſſion
+<pb n="193" facs="tcp:170915:102"/> of our Minds: but alſo, as was before obſerv'd, brings a ſcandal upon
+our moſt Holy Profeſſion; as though it was not ſufficient to ſecure us from the force and
+vio<g ref="char:EOLhyphen"/>lence of this <hi>unruly Paſſion.</hi> For it looks like a great diſ<g ref="char:EOLhyphen"/>honour to Religion,
+that notwithſtanding all the Ad<g ref="char:EOLhyphen"/>vantages it propoſes to us, all the Helps and Aſſiſtances
+it gives us whereby to ſtrengthen and ſupport the Weakneſs and Infirmities of our Nature,
+againſt the Storms and Inſults that may threaten it from abroad, yet that thoſe who through
+the whole Behaviour of their
+<pb n="194" facs="tcp:170915:103"/> Lives, and by their conſtant obſervance of all the other neceſſary
+parts of their Duty ſeem to have the faireſt Ti<g ref="char:EOLhyphen"/>tle to <hi>Vertue and Religion,</hi> ſhould
+at laſt ſink under the Preſſure of an unavoidable Calamity. And this we ought the rather to
+take notice of, becauſe thoſe who make it their Buſineſs to cavil at Religion, ſeem to
+derive their chief Argu<g ref="char:EOLhyphen"/>ments from the Lives and Practice of thoſe that pro<g ref="char:EOLhyphen"/>feſs it.</p>
+            <p>For they imagine, that they may juſtly call in que<g ref="char:EOLhyphen"/>ſtion the Principles of Reli<g ref="char:EOLhyphen"/>gion, and
+even Providence
+<pb n="195" facs="tcp:170915:103"/> it ſelf, if thoſe who ſeem moſt to live up to the Rules of the one,
+and rely upon the Goodneſs and Care of the other, ſhould fail in any part of their Duty to
+either, and become as Miſerable, notwithſtanding the promi<g ref="char:EOLhyphen"/>ſed Helps and Advantages of
+Religion, and the Protection of Providence, as thoſe who live <hi>without any God in the
+World.</hi> I ſhall not now enter into a Diſpute with theſe Unreaſonable Men, (who think a
+Slip or Fail<g ref="char:EOLhyphen"/>ing of a Good Man, a ſuffi<g ref="char:EOLhyphen"/>cient Argument to ſhake the very Foundations of
+Religi<g ref="char:EOLhyphen"/>on) but ſhall only add, that
+<pb n="196" facs="tcp:170915:104"/> we ought to be very careful in the Diſcharge of every part of our Duty,
+leaſt our Neglect ſhould give Occa<g ref="char:EOLhyphen"/>ſion to our Adverſaries to re<g ref="char:EOLhyphen"/>proach our Religion, or to
+the <hi>Enemies of God to Blaſ<g ref="char:EOLhyphen"/>pheme.</hi>
+            </p>
+            <p>But in the laſt place, the greateſt Danger that our <hi>immoderate Grief</hi> at any Loſs
+we receive, can bring upon us, is, that it will provoke <hi>Providence</hi> to inflict greater
+Evils upon us. God expects a chearful Submiſſion from us to all his Appointments, and that we
+ſhould patient<g ref="char:EOLhyphen"/>ly wait upon his Will and Pleaſure for the Event of all,
+<pb n="197" facs="tcp:170915:104"/> who hath promiſed neither to <hi>leave nor forſake us,</hi> if we put
+<hi>our Truſt in his Mercy.</hi> An <hi>Humble Spirit</hi> is the beſt Sacrifice we can Offer
+up to him. And nothing is more diſpleaſing to him, than to murmur or repine at any of his
+Corrections. All his Judgments are done in Ju<g ref="char:EOLhyphen"/>ſtice and Equity; but for us to find fault with
+them, is to make our ſelves Wiſer than He.</p>
+            <p>How careful then ought we to be, leaſt by our im<g ref="char:EOLhyphen"/>moderate Sorrow for any Affliction he hath
+laid upon us, we ſhould ſeem diſ<g ref="char:EOLhyphen"/>pleaſed at any of his Doings,
+<pb n="198" facs="tcp:170915:105"/> and thereby draw down his Vengeance upon us. For who can ſtand before him,
+when <hi>once he is Angry?</hi> Diffi<g ref="char:EOLhyphen"/>dence or Diſtruſt of <hi>God</hi> is one of the
+greateſt Sins we can be guilty of againſt him, becauſe it ſeems to queſtion thoſe great
+and tender At<g ref="char:EOLhyphen"/>tributes, his <hi>Goodneſs and Mercy;</hi> and therefore if we offend in that kind,
+we may be aſſured, that he will not let ſo great a Sin go un<g ref="char:EOLhyphen"/>puniſhed, but will make uſe
+of another Attribute, that of his <hi>Juſtice,</hi> to convince us of the Abuſe we had made of
+his <hi>Mercy.</hi>
+            </p>
+            <p>
+               <pb n="199" facs="tcp:170915:105"/>It is our Duty then, grate<g ref="char:EOLhyphen"/>fully to acknowledge the Goodneſs of
+<hi>God</hi> continually to us, and not repine be<g ref="char:EOLhyphen"/>cauſe we may think we are now become
+Miſerable, but be thankful to him that we were not always ſo. He is under no Obligations to
+make us Happy but what proceed from his own Good will and Pleaſure. How then ought we in Wiſdom
+as well as Juſtice, to reſign all that we have a Concern for, to his alone Diſpoſal, who
+orders all things ſo for our Happineſs, as though he could do no otherwiſe; and who contrives
+every thing
+<pb n="200" facs="tcp:170915:106"/> ſo much for our Good, as if He Himſelf could not be Happy, unleſs We
+alſo were ſo too; and who has done ſo much already to advance our Intereſt, that we have
+the greateſt Reaſon to be<g ref="char:EOLhyphen"/>lieve, that it will be our fault, if he be not always the ſame to
+us. If we conſider the Mercies we have re<g ref="char:EOLhyphen"/>ceiv'd, and weigh them a<g ref="char:EOLhyphen"/>gainſt the Evils we have
+ſuffered, we ſhall find infi<g ref="char:EOLhyphen"/>nitely greater Cauſe to be continually breaking forth into
+Expreſſions of Praiſe and Thankſgiving for our Enjoyments, than to repine at our
+Miſeries. What migh<g ref="char:EOLhyphen"/>ty
+<pb n="201" facs="tcp:170915:106"/> Returns of Gratitude ſhould this one amazing Conſideration draw from us,
+that not withſtanding all our Provocations, He is Li<g ref="char:EOLhyphen"/>beral, Gracious and Merci<g ref="char:EOLhyphen"/>ful to us, and
+that we ſtill receive new Mercies from him, though our Sins againſt him have deſerv'd the
+great<g ref="char:EOLhyphen"/>eſt of Puniſhments. I ſhall beg leave to add to this, that admirable Paſſage of
+that Great Emperour <hi>Marcus An<g ref="char:EOLhyphen"/>toninus.</hi>
+               <q>Can God, ſays he, for the Succeſſion of ſo many Ages bear without In<g ref="char:EOLhyphen"/>dignation, with
+ſo Great, and ſo many Sinners as have ever yet been: and
+<pb n="202" facs="tcp:170915:107"/> not only ſo, but alſo pro<g ref="char:EOLhyphen"/>vide for them, that they want nothing; and
+doeſt thou, ſo violently grieve at any thing He hath taken from thee, as One that could bear
+with Him no longer, Thou that art but for a moment of time, yea, Thou, that art one of thoſe
+Sinners thy ſelf?</q>
+            </p>
+            <p>And thus I have gone through what I at firſt in<g ref="char:EOLhyphen"/>tended, in offering ſeveral Arguments which
+I thought moſt neceſſary and uſeful, as well for the preventing our <hi>Sorrows</hi> and
+Afflictions, as for the ſupporting us under them. For if we really think
+<pb n="203" facs="tcp:170915:107"/> it worth our while to pur<g ref="char:EOLhyphen"/>chaſe to our ſelves true Peace and
+Tranquillity of Mind, we ſhall certainly find that theſe Conſiderations which I have
+inſiſted upon, may be of great Moment to us towards the procuring of it.</p>
+            <p>For if we firſt of all wou'd fix in our Minds true Notions of all outward Things, with the
+real Uſes and Ends of them, how that they were lent us by Providence, to try our Prudence in the
+ma<g ref="char:EOLhyphen"/>nagement of them, and not to be made the Subject of our Happineſs, but only the Exerciſe of
+our Vertues, we
+<pb n="204" facs="tcp:170915:108"/> ſhould certainly reap theſe Advantages from it. Firſt, whatever
+outward Bleſſings <hi>Providence</hi> beſtows upon us we ſhould receive them with all
+Thankfulneſs, as Bleſſings which flowed to us from God's immediate Boun<g ref="char:EOLhyphen"/>ty, and not given us
+upon any account of our own De<g ref="char:EOLhyphen"/>ſervings. And Secondly, we ſhould uſe them with
+<hi>Mode<g ref="char:EOLhyphen"/>ration,</hi> and not fix our Hearts and Minds upon them; and then this would teach us in
+the Third place, to bear the Loſs of them <hi>with Patience.</hi> Becauſe we ſhould
+conſider them as Things not really our own, but His that gave
+<pb n="205" facs="tcp:170915:108"/> them to us, and that not ab<g ref="char:EOLhyphen"/>ſolutely, but upon Condi<g ref="char:EOLhyphen"/>tions, ſuch as give
+us only a limited uſe of them, but leave to <hi>Providence</hi> the abſo<g ref="char:EOLhyphen"/>lute Right and
+Diſpoſal of them.</p>
+            <p>And from theſe Concluſi<g ref="char:EOLhyphen"/>ons, what I obſerv'd in the Second place will neceſſa<g ref="char:EOLhyphen"/>rily
+follow, that it is our chiefeſt Intereſt, to live up exactly to the Principles of
+<hi>Religion,</hi> which will guide us to the great Foundation of all Happineſs, the
+<hi>Reſign<g ref="char:EOLhyphen"/>ing up our ſelves</hi> to the Will and Pleaſure of Providence, which knows what is
+conve<g ref="char:EOLhyphen"/>nient for us, better than we
+<pb n="206" facs="tcp:170915:109"/> our ſelves can, and out of Compaſſion to our Igno<g ref="char:EOLhyphen"/>rance and Infirmity,
+will find out means whereby to make us Happy, which we perhaps thought could only make us
+Miſerable; and be our Com<g ref="char:EOLhyphen"/>fort and Support under all Afflictions here, and ad<g ref="char:EOLhyphen"/>vance us to
+<hi>Immortality,</hi> and the Perfection of Happineſs hereafter. For how great ſoever our
+Sorrows are here, they will be then ſufficient<g ref="char:EOLhyphen"/>ly, and abundantly made up with <hi>fulneſs of
+Joy and Plea<g ref="char:EOLhyphen"/>ſures for evermore.</hi>
+            </p>
+            <p>What Reaſon have we then to repine at any Af<g ref="char:EOLhyphen"/>flictions or Sufferings of this
+<pb n="207" facs="tcp:170915:109"/> Life, which are ſo very ad<g ref="char:EOLhyphen"/>vantagious to us? For they not only give us a
+ſence of our own Imperfections, and of the Vanity and Uncer<g ref="char:EOLhyphen"/>tainty of all things under the Sun,
+as well as their inſuffi<g ref="char:EOLhyphen"/>ciency for our Happineſs, but lead us thither for our Comfort, where
+all <hi>Perfecti<g ref="char:EOLhyphen"/>on dwells,</hi> and teach us to re<g ref="char:EOLhyphen"/>ly wholly upon Him for our Happineſs, who has
+alone the Power to beſtow it upon us So that at length to our unſpeakable Satisfa<g ref="char:EOLhyphen"/>ction, we
+ſhall be obliged to confeſs, that all his <hi>Judg<g ref="char:EOLhyphen"/>ments</hi> are as well the Effects of His
+<hi>Goodneſs, Mercy</hi> and
+<pb n="208" facs="tcp:170915:110"/> 
+               <hi>Compaſſion,</hi> as of His <hi>Juſtice,</hi> and that out of
+<hi>very Faith<g ref="char:EOLhyphen"/>fulneſs he hath cauſed us to be troubled.</hi>
+            </p>
+            <p>What great Satisfaction, ſhould this one Conſidera<g ref="char:EOLhyphen"/>tion raiſe in our Mind, that God will
+be a preſent Help to us in time of Trouble, and though all our Friends and Relations ſhould
+either forſake us, or be parted from us, yet <hi>The Lord upholdeth us with his Right Hand.</hi>
+Their Kindneſs may be great to us, and they may be willing to ſerve us to the utmoſt of their
+Power, yet they are Defective in a great many things, and come in<g ref="char:EOLhyphen"/>finitely
+<pb n="209" facs="tcp:170915:110"/> ſhort of <hi>Him,</hi> who can command all things in Heaven and Earth, and
+is the ſole <hi>All-ſufficient Good.</hi> They have innumerable Imperfections: but He is
+<hi>Perfect Goodneſs.</hi> They mu<g ref="char:EOLhyphen"/>table and uncertain: He al<g ref="char:EOLhyphen"/>ways <hi>the ſame, firm and
+un<g ref="char:EOLhyphen"/>changeable.</hi> They may be taken from us, but <hi>Him</hi> who is <hi>Eternal,</hi> we can
+never be deprived of. How Happy then will our State be, when we can ſay, <hi>Whom have we in
+Heaven but Thee, and there is none upon Earth that we deſire in Compariſon of Thee. When our
+Heart, and our Strength fails us, God will
+<pb n="210" facs="tcp:170915:111"/> be the Strength of our Hearts, and our Portion for ever. Though we may be
+troubled on every ſide, yet ſhall we not be diſtreſſed, though perplexed, yet not in
+Deſpair: though perſecuted, yet not forſaken; though caſt down, yet not
+De<g ref="char:EOLhyphen"/>ſtroyed.</hi>
+            </p>
+            <p>The Hopes and Expecta<g ref="char:EOLhyphen"/>tions of being thus Happy, might certainly ſo far en<g ref="char:EOLhyphen"/>gage our Thoughts
+and Af<g ref="char:EOLhyphen"/>fections, as to wean us from this World, where we can meet with nothing but Trouble and
+Vexation, if we fix our Minds upon it. Eſpecially if we ſeriouſly conſider the dangerous
+Con<g ref="char:EOLhyphen"/>ſequences
+<pb n="211" facs="tcp:170915:111"/> that always at<g ref="char:EOLhyphen"/>tend thoſe who make this Life and the Enjoyments of it
+their Happineſs. For what<g ref="char:EOLhyphen"/>ever theſe Enjoyments are, they are accompanied with Trouble, and end
+in Miſery. For either they muſt leave us, or we them; and which ſoever it be, we muſt
+cer<g ref="char:EOLhyphen"/>tainly be Miſerable, becauſe we are depriv'd of that which alone we made our
+<hi>Happineſs,</hi> and therefore are neither prepared nor capa<g ref="char:EOLhyphen"/>citated for any other.</p>
+            <p>But beſides we ought to conſider, that Time is pre<g ref="char:EOLhyphen"/>cious, and given us for greater Ends,
+than to be
+<pb n="212" facs="tcp:170915:112"/> ſpent upon any Worldly Concern, either in over-va<g ref="char:EOLhyphen"/>luing our outward
+Things, by taking too great a Plea<g ref="char:EOLhyphen"/>ſure in the Enjoyment, or by an unjuſt Complaint at the
+Loſs of them. All is little enough to be ſpent upon the Thoughts of ano<g ref="char:EOLhyphen"/>ther Life, and not to
+be miſ<g ref="char:EOLhyphen"/>employed, in ſhewing our over-fondneſs of this. If we were to ſtay here always, we
+ought to take care, to fix our <hi>Affections</hi> here too, and place them upon Objects moſt
+agreeable to us. But ſince <hi>Providence</hi> has allotted us but a ſhort Continuance here,
+and has ſuited the Fa<g ref="char:EOLhyphen"/>brick
+<pb n="213" facs="tcp:170915:112"/> of our Bodies to the ſhortneſs of our Stay, and provided us another Life
+after this, unchangable and immortal, we ought in Pru<g ref="char:EOLhyphen"/>dence to beſtow our firſt Care and
+Affections upon that. And if any thing which we Dearly Eſteem'd, has been tranſlated from us,
+to that other State of Im<g ref="char:EOLhyphen"/>mortality, before we were willing to part with it, we ought alſo to
+follow it thither with our Thoughts and Affections, and not with our <hi>Tears and Complaints;</hi>
+and conform our preſent Condition as much as poſſi<g ref="char:EOLhyphen"/>ble to that which our <hi>Friends</hi>
+               <pb n="214" facs="tcp:170915:113"/> who are gone before us do already enjoy. Death is only a putting off theſe
+Bodies, the leaving This, and chang<g ref="char:EOLhyphen"/>ing it for another Place of Habitation; and not a cea<g ref="char:EOLhyphen"/>ſing to
+be, or a falling into Nothing. And though it is an Admiſſion into that invi<g ref="char:EOLhyphen"/>ſible State,
+which no mortal Eye can enter; yet our Minds may keep a Spiritual Converſation with thoſe more
+Perfect Beings, and may ſtill enjoy them by the Eye of Faith, though not by that of Sence.</p>
+            <p>Perfect Happineſs was never deſigned for this Life, nor can we expect it; for
+<pb n="215" facs="tcp:170915:113"/> if it was, there would be no<g ref="char:EOLhyphen"/>thing left for us to enjoy in the Next. But yet
+it may be in our Power to make large Additions to it, and to ad<g ref="char:EOLhyphen"/>vance by Degrees more and more to
+that <hi>Perfection,</hi> which will be Conſummate hereafter.</p>
+            <p>And to this End we may make uſe of our Afflictions, which the Loſs of <hi>Friends</hi>
+brings upon us, to the putting us in mind of our own <hi>Mor<g ref="char:EOLhyphen"/>tality;</hi> which by our con<g ref="char:EOLhyphen"/>tinual
+Remembrance of it, will admoniſh us to grow better, and more fit for <hi>Hap<g ref="char:EOLhyphen"/>pineſſ.</hi> Nor
+will it ſuffer us to apply our Minds to thoſe
+<pb n="216" facs="tcp:170915:114"/> things, which will ſtop us in our Advances thither: And perhaps it was for
+this Reaſon that we have loſt what we now Grieve for, becauſe we fixt our Minds ſo much
+upon it, that we had not leiſure to think of ano<g ref="char:EOLhyphen"/>ther Life, which ſhould have no Obſtacles to
+withdraw our thoughts from it.</p>
+            <p>To conclude, We ought not to be concern'd too much at any thing that may befal us here;
+becauſe we can't enter into the State of the Bleſſed, till we have ta<g ref="char:EOLhyphen"/>ken off our Minds from
+all Senſual and Earthly Deſires. We muſt ſhake off theſe
+<pb n="217" facs="tcp:170915:114"/> Clogs, before we can be ad<g ref="char:EOLhyphen"/>mitted into Happineſs. We can't enter into Life
+<hi>halt</hi> and <hi>maimed;</hi> we muſt carry nothing thither but ſpiritual Minds, heavenly
+Thoughts, and exalted Deſires, with<g ref="char:EOLhyphen"/>out any mixture, or allay of Senſe. We muſt temper our
+Affections to thoſe Manſions of Pleaſures, if ever we ex<g ref="char:EOLhyphen"/>pect a Fruition of them. We can
+never ſee <hi>God,</hi> nor enjoy the Beatiſick Viſion with the Eye of Senſe. We muſt be
+purified and refin'd, before we can behold thoſe Glorious Objects; and ex<g ref="char:EOLhyphen"/>change our vitiated
+Palates, for ſome more exquiſitely
+<pb n="218" facs="tcp:170915:115"/> perfect, if we deſign to taſt of the <hi>Supper of the Lamb.</hi> We
+muſt <hi>wipe all Tears from our Eyes,</hi> if we expect to gain admittance there, <hi>where
+there is neither Grief nor Sor<g ref="char:EOLhyphen"/>row any more,</hi> where there are only <hi>Hallelujahs,</hi>
+Praiſes and Thankſgivings to Him that <hi>ſitteth on the Throne for ever and ever.</hi>
+            </p>
+            <p>What Joy and Tranſport do the frequent Meditations upon another Life, raiſe in the Minds of
+Good Men! With what Comfort and Sa<g ref="char:EOLhyphen"/>tisfaction do they perform all the Duties of Religion! How
+Fervent in their Pray<g ref="char:EOLhyphen"/>ers, how Conſtant and Joy<g ref="char:EOLhyphen"/>ful
+<pb n="219" facs="tcp:170915:115"/> in their Thankſglvings! How Raviſhing are their Hopes, how few their
+Fears! In a word, their Thoughts are ſo wholly taken up with the Meditations of the next Life,
+that they are little concern'd for any thing of this. If they ſuffer Scorn or Reproach from Men,
+or feel the immediate Hand of <hi>God</hi> upon them in Afflictions, they turn all to a good Uſe,
+and endeavour to grow bet<g ref="char:EOLhyphen"/>ter by them. They know <hi>though they ſow in Tears, they ſhall reap
+in Joy:</hi> That is, their Joys ſhall be abun<g ref="char:EOLhyphen"/>dantly greater than ever their Sorrows were. They
+<pb n="220" facs="tcp:170915:116"/> ſhall drink Rivers of Plea<g ref="char:EOLhyphen"/>ſure for every Tear that fell from their
+Eyes: And for One Moment of Sorrow, They ſhall receive Eternal Bleſſedneſs, and <hi>be for
+Ever entertain'd with Joy unſpeaka<g ref="char:EOLhyphen"/>able and full of Glory. Where<g ref="char:EOLhyphen"/>fore let us Comfort one another
+with theſe Words.</hi>
+            </p>
+            <trailer>The End.</trailer>
+            <pb facs="tcp:170915:116"/>
+            <pb facs="tcp:170915:117"/>
+            <pb facs="tcp:170915:117" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
